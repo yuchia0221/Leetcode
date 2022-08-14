@@ -31,5 +31,6 @@
 -   [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/): [Solution](/Array%20%26%20Hashing/49-GroupAnagrams/)
 -   [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/): [Solution](/Array%20%26%20Hashing/347-TopKFrequentElements/)
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Array%20%26%20Hashing/238-ProductofArrayExceptSelf/)
+-   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Array%20%26%20Hashing/36-ValidSudoku/)
 
 ---
