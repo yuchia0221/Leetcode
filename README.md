@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 150 leetcode questions in Python. The original post can be found on [here](https://neetcode.io/). Questions can be categorized into 15 cagtegories, including Array & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Tries, Heap / Priority Queue, Backtracking, Graphs, Advanced Graphs, 1-D Dynamic Programming, 2-D Dynamic Programming, Greedy, Intervals, Math & Geometry, Bit Manipulation.
 
-##### Problem Solved: 2 / 150
+##### Problem Solved: 3 / 150
 
 -   [ ] [Array & Hashing](#array--hashing) (9)
 -   [ ] Two Pointers (5)
@@ -26,7 +26,7 @@
 ### Array & Hashing
 
 -   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array%20%26%20Hashing/217-ContainsDuplicate/)
-
 -   [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/): [Solution](/Array%20%26%20Hashing/242-ValidAnagram/)
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum/): [Solution](/Array%20%26%20Hashing/1-TwoSum/)
 
 ---
