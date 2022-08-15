@@ -33,5 +33,6 @@
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Array%20%26%20Hashing/238-ProductofArrayExceptSelf/)
 -   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Array%20%26%20Hashing/36-ValidSudoku/)
 -   [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/): [Solution](/Array%20%26%20Hashing/271-EncodeandDecodeStrings/)
+-   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Array%20%26%20Hashing/128-LongestConsecutiveSequence/)
 
 ---
