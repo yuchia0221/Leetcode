@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 150 leetcode questions in Python. The original post can be found on [here](https://neetcode.io/). Questions can be categorized into 15 cagtegories, including Array & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Tries, Heap / Priority Queue, Backtracking, Graphs, Advanced Graphs, 1-D Dynamic Programming, 2-D Dynamic Programming, Greedy, Intervals, Math & Geometry, Bit Manipulation.
 
-##### Problem Solved: 7 / 150
+##### Problem Solved: 8 / 150
 
 -   [ ] [Array & Hashing](#array--hashing) (9)
 -   [ ] Two Pointers (5)
@@ -32,5 +32,6 @@
 -   [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/): [Solution](/Array%20%26%20Hashing/347-TopKFrequentElements/)
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Array%20%26%20Hashing/238-ProductofArrayExceptSelf/)
 -   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Array%20%26%20Hashing/36-ValidSudoku/)
+-   [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/): [Solution](/Array%20%26%20Hashing/271-EncodeandDecodeStrings/)
 
 ---
