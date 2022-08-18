@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 16
+##### Problem Solved: 17
 
 -   [Array & Hashing](#array--hashing) (9)
 -   [Two Pointers](#tow-pointers) (5)
@@ -36,5 +36,6 @@
 
 -   [x] [Binary Search](https://leetcode.com/problems/binary-search/submissions/): [Solution](/Binary%20Search/704-BinarySearch/)
 -   [x] [Find First and Last Position of Element in Sorted Arra](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/): [Solution](/Binary%20Search/34-FindFirstandLastPositionofElementinSortedArray/)
+-   [x] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/): [Solution](/Binary%20Search/702-SearchinaSortedArrayofUnknownSize/)
 
 ---
