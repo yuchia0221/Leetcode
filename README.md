@@ -2,11 +2,11 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 21
+##### Problem Solved: 22
 
 -   [Array & Hashing](#array--hashing) (9)
 -   [Two Pointers](#tow-pointers) (5)
--   [Binary Serch](#binary-search)
+-   [Binary Serch](#binary-search) (8)
 
 ### Array & Hashing
 
@@ -41,5 +41,6 @@
 -   [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/): [Solution](/Binary%20Search/74-Searcha2DMatrix/)
 -   [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/): [Solution](/Binary%20Search/162-FindPeakElement/)
 -   [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/): [Solution](/Binary%20Search/875-KokoEatingBananas/)
+-   [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/): [Solution](/Binary%20Search/1283-FindtheSmallestDivisorGivenaThreshold/)
 
 ---
