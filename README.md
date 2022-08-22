@@ -5,7 +5,7 @@
 ##### Problem Solved: 26
 
 -   [Array & Hashing](#array--hashing) (9)
--   [Two Pointers](#tow-pointers) (5)
+-   [Two Pointers](#two-pointers) (5)
 -   [Binary Serch](#binary-search) (8)
 -   [Multiple Pointers](#multiple-pointers)
 
@@ -33,7 +33,7 @@
 
 ---
 
-### Tow Pointers
+### Two Pointers
 
 -   [x] [Binary Search](https://leetcode.com/problems/binary-search/submissions/): [Solution](/Binary%20Search/704-BinarySearch/)
 -   [x] [Find First and Last Position of Element in Sorted Arra](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/): [Solution](/Binary%20Search/34-FindFirstandLastPositionofElementinSortedArray/)
