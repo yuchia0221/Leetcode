@@ -5,9 +5,8 @@
 ##### Problem Solved: 28
 
 -   [Array & Hashing](#array--hashing) (9)
--   [Two Pointers](#two-pointers) (5)
 -   [Binary Serch](#binary-search) (8)
--   [Multiple Pointers](#multiple-pointers)
+-   [Two Pointers](#two-pointers)
 
 ### Array & Hashing
 
@@ -25,16 +24,6 @@
 
 ### Binary Search
 
--   [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/): [Solution](/Two%20Pointers/125-ValidPalindrome/)
--   [x] [167-TwoSumII-InputArrayIsSorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Solution](/Two%20Pointers/167-TwoSumII-InputArrayIsSorted/)
--   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Two%20Pointers/15-3Sum/)
--   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/): [Solution](/Two%20Pointers/11-ContainerWithMostWater/)
--   [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/): [Solution](/Two%20Pointers/42-TrappingRainWater/)
-
----
-
-### Two Pointers
-
 -   [x] [Binary Search](https://leetcode.com/problems/binary-search/submissions/): [Solution](/Binary%20Search/704-BinarySearch/)
 -   [x] [Find First and Last Position of Element in Sorted Arra](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/): [Solution](/Binary%20Search/34-FindFirstandLastPositionofElementinSortedArray/)
 -   [x] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/): [Solution](/Binary%20Search/702-SearchinaSortedArrayofUnknownSize/)
@@ -46,13 +35,18 @@
 
 ---
 
-### Multiple Pointers
+### Two Pointers
 
--   [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/): [Solution](/Multiple%20Pointers/912-SortanArray/)
--   [x] [Sort Colors](https://leetcode.com/problems/sort-colors/): [Solution](/Multiple%20Pointers/75-SortColors/)
--   [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [Solution](/Multiple%20Pointers/26-RemoveDuplicatesfromSortedArray/)
--   [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
--   [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/): [Solution](/Multiple%20Pointers/88-MergeSortedArray/)
--   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Multiple%20Pointers/283-MoveZeroes/)
+-   [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/): [Solution](/Two%20Pointers/125-ValidPalindrome/)
+-   [x] [167-TwoSumII-InputArrayIsSorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Solution](/Two%20Pointers/167-TwoSumII-InputArrayIsSorted/)
+-   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Two%20Pointers/15-3Sum/)
+-   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/): [Solution](/Two%20Pointers/11-ContainerWithMostWater/)
+-   [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/): [Solution](/Two%20Pointers/42-TrappingRainWater/)
+-   [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/): [Solution](/Two%20Pointers/912-SortanArray/)
+-   [x] [Sort Colors](https://leetcode.com/problems/sort-colors/): [Solution](/Two%20Pointers/75-SortColors/)
+-   [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [Solution](/Two%20Pointers/26-RemoveDuplicatesfromSortedArray/)
+-   [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/): [Solution](/Two%20Pointers/80-RemoveDuplicatesfromSortedArrayII/)
+-   [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/): [Solution](/Two%20Pointers/88-MergeSortedArray/)
+-   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Two%20Pointers/283-MoveZeroes/)
 
 ---
