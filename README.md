@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 26
+##### Problem Solved: 27
 
 -   [Array & Hashing](#array--hashing) (9)
 -   [Two Pointers](#two-pointers) (5)
@@ -52,5 +52,6 @@
 -   [x] [Sort Colors](https://leetcode.com/problems/sort-colors/): [Solution](/Multiple%20Pointers/75-SortColors/)
 -   [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [Solution](/Multiple%20Pointers/26-RemoveDuplicatesfromSortedArray/)
 -   [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+-   [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/): [Solution](/Multiple%20Pointers/88-MergeSortedArray/)
 
 ---
