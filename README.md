@@ -2,10 +2,10 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 28
+##### Problem Solved: 29
 
--   [Array & Hashing](#array--hashing) (9)
--   [Binary Serch](#binary-search) (8)
+-   [Array & Hashing](#array--hashing)
+-   [Binary Serch](#binary-search)
 -   [Two Pointers](#two-pointers)
 
 ### Array & Hashing
@@ -19,6 +19,7 @@
 -   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Array%20%26%20Hashing/36-ValidSudoku/)
 -   [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/): [Solution](/Array%20%26%20Hashing/271-EncodeandDecodeStrings/)
 -   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Array%20%26%20Hashing/128-LongestConsecutiveSequence/)
+-   [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/): [Solution](/Array%20%26%20Hashing/215-KthLargestElementinanArray/)
 
 ---
 
