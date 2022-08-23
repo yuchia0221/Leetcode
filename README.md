@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 30
+##### Problem Solved: 31
 
 -   [Array & Hashing](#array--hashing)
 -   [Binary Serch](#binary-search)
@@ -21,6 +21,7 @@
 -   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Array%20%26%20Hashing/128-LongestConsecutiveSequence/)
 -   [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/): [Solution](/Array%20%26%20Hashing/215-KthLargestElementinanArray/)
 -   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Array%20%26%20Hashing/349-IntersectionofTwoArrays/)
+-   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Array%20%26%20Hashing/350-IntersectionofTwoArraysII/)
 
 ---
 
