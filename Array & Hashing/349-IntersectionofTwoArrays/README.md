@@ -12,4 +12,4 @@ def intersection(nums1: List[int], nums2: List[int]) -> List[int]:
 
 Explanation: We can use set operation to solve this problem. Just find the intersection of two arrays.
 
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
+Time Complexity: ![O(n+m)](<https://latex.codecogs.com/svg.image?\inline&space;O(n+m)>), Space Complexity: ![O(n+m)](<https://latex.codecogs.com/svg.image?\inline&space;O(n+m)>), where n and m is the length of nums1 and nums2, respectively.
