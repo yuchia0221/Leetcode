@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 31
+##### Problem Solved: 32
 
 -   [Array & Hashing](#array--hashing)
 -   [Binary Serch](#binary-search)
@@ -51,5 +51,6 @@
 -   [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/): [Solution](/Two%20Pointers/80-RemoveDuplicatesfromSortedArrayII/)
 -   [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/): [Solution](/Two%20Pointers/88-MergeSortedArray/)
 -   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Two%20Pointers/283-MoveZeroes/)
+-   [x] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/): [Solution](/Two%20Pointers/845-LongestMountaininArray/)
 
 ---
