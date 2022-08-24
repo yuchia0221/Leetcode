@@ -2,11 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 33
+##### Problem Solved: 34
 
--   [Array & Hashing](#array--hashing)
--   [Binary Serch](#binary-search)
--   [Two Pointers](#two-pointers)
+-   [Array & Hashing](#array--hashing) (12)
+-   [Binary Serch](#binary-search) (8)
+-   [Two Pointers](#two-pointers) (13)
+-   [Linked List](#linked-list) (1)
 
 ### Array & Hashing
 
@@ -53,5 +54,11 @@
 -   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Two%20Pointers/283-MoveZeroes/)
 -   [x] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/): [Solution](/Two%20Pointers/845-LongestMountaininArray/)
 -   [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/): [Solution](/Two%20Pointers/43-MultiplyStrings/)
+
+---
+
+### Linked List
+
+-   [x] [Multiply Strings](https://leetcode.com/problems/merge-two-sorted-lists/): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
 
 ---
