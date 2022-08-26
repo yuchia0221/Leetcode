@@ -2,12 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 34
+##### Problem Solved: 35
 
 -   [Array & Hashing](#array--hashing) (12)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
--   [Linked List](#linked-list) (1)
+-   [Linked List](#linked-list) (2)
 
 ### Array & Hashing
 
@@ -60,5 +60,6 @@
 ### Linked List
 
 -   [x] [Multiply Strings](https://leetcode.com/problems/merge-two-sorted-lists/): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
+-   [x] [Partition List](https://leetcode.com/problems/partition-list/): [Solution](/Linked%20List/86-PartitionList/)
 
 ---
