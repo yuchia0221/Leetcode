@@ -2,12 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 38
+##### Problem Solved: 39
 
 -   [Array & Hashing](#array--hashing) (12)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
--   [Linked List](#linked-list) (5)
+-   [Linked List](#linked-list) (6)
 
 ### Array & Hashing
 
@@ -64,5 +64,6 @@
 -   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [Solution](/Linked%20List/141-LinkedListCycle/)
 -   [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/): [Solution](/Linked%20List/160-IntersectionofTwoLinkedLists/)
 -   [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/): [Solution](/Linked%20List/234-PalindromeLinkedList/)
+-   [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/): [Solution](/Linked%20List/328-OddEvenLinkedList/)
 
 ---
