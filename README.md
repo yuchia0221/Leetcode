@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 41
+##### Problem Solved: 42
 
--   [Array & Hashing](#array--hashing) (14)
+-   [Array & Hashing](#array--hashing) (15)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
@@ -38,6 +38,7 @@
 -   [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/): [Solution](/Binary%20Search/1283-FindtheSmallestDivisorGivenaThreshold/)
 -   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/): [Solution](/Array%20%26%20Hashing/56-MergeIntervals/)
 -   [x] [Insert Interval](https://leetcode.com/problems/insert-interval/): [Solution](/Array%20%26%20Hashing/57-InsertInterval/)
+-   [x] [Meeting rooms](https://leetcode.com/problems/meeting-rooms/): [Solution](/Array%20%26%20Hashing/252-MeetingRooms/)
 
 ---
 
