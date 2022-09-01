@@ -2,13 +2,13 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 46
+##### Problem Solved: 47
 
 -   [Array & Hashing](#array--hashing) (17)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
--   [String] (2)
+-   [String] (3)
 
 ### Array & Hashing
 
@@ -78,3 +78,4 @@
 
 -   [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/): [Solution](/String/5-LongestPalindromicSubstring/)
 -   [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/): [Solution](/String/345-ReverseVowelsofaString/)
+- [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/): [Solution](/String/680-ValidPalindromeII/)
