@@ -2,12 +2,13 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 44
+##### Problem Solved: 45
 
 -   [Array & Hashing](#array--hashing) (17)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
+-   [String] (1)
 
 ### Array & Hashing
 
@@ -72,3 +73,7 @@
 -   [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/): [Solution](/Linked%20List/328-OddEvenLinkedList/)
 
 ---
+
+### String
+
+-   [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/): [Solution](/String/5-LongestPalindromicSubstring/)
