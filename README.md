@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 50
+##### Problem Solved: 51
 
--   [Array & Hashing](#array--hashing) (19)
+-   [Array & Hashing](#array--hashing) (20)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
@@ -27,6 +27,7 @@
 -   [x] [Interval List Intersections](/https://leetcode.com/problems/interval-list-intersections/): [Solution](/Array%20%26%20Hashing/986-IntervalListIntersections/)
 -   [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/): [Solution](/Array%20%26%20Hashing/76-MinimumWindowSubstring/)
 -   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Array%20%26%20Hashing/209-MinimumSizeSubarraySum/)
+-   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Array%20%26%20Hashing/239-SlidingWindowMaximum/)
 
 ---
 
