@@ -2,12 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 52
+##### Problem Solved: 53
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (9)
 -   [Sliding Window](#sliding-window) (4)
--   [Prefix Sum](#prefix-sum) (1)
+-   [Prefix Sum](#prefix-sum) (2)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
@@ -51,6 +51,7 @@
 ### Prefix Sum
 
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Prefix%20Sum/238-ProductofArrayExceptSelf/)
+-   [x] [Maximum Subarray](/https://leetcode.com/problems/maximum-subarray/): [Solution](/Prefix%20Sum/53-MaximumSubarray/)
 
 ---
 
