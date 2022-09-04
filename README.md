@@ -4,31 +4,53 @@
 
 ##### Problem Solved: 52
 
--   [Array & Hashing](#array--hashing) (21)
+-   [Array & Hashing](#array) (7)
+-   [Hash Table](#hash-table) (9)
+-   [Sliding Window](#sliding-window) (4)
+-   [Prefix Sum](#prefix-sum) (1)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
 -   [String] (4)
 
-### Array & Hashing
+### Array
 
--   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array%20%26%20Hashing/217-ContainsDuplicate/)
--   [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/): [Solution](/Array%20%26%20Hashing/242-ValidAnagram/)
--   [x] [Two Sum](https://leetcode.com/problems/two-sum/): [Solution](/Array%20%26%20Hashing/1-TwoSum/)
--   [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/): [Solution](/Array%20%26%20Hashing/49-GroupAnagrams/)
--   [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/): [Solution](/Array%20%26%20Hashing/347-TopKFrequentElements/)
--   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Array%20%26%20Hashing/238-ProductofArrayExceptSelf/)
--   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Array%20%26%20Hashing/36-ValidSudoku/)
--   [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/): [Solution](/Array%20%26%20Hashing/271-EncodeandDecodeStrings/)
--   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Array%20%26%20Hashing/128-LongestConsecutiveSequence/)
--   [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/): [Solution](/Array%20%26%20Hashing/215-KthLargestElementinanArray/)
--   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Array%20%26%20Hashing/349-IntersectionofTwoArrays/)
--   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Array%20%26%20Hashing/350-IntersectionofTwoArraysII/)
--   [x] [Interval List Intersections](/https://leetcode.com/problems/interval-list-intersections/): [Solution](/Array%20%26%20Hashing/986-IntervalListIntersections/)
--   [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/): [Solution](/Array%20%26%20Hashing/76-MinimumWindowSubstring/)
--   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Array%20%26%20Hashing/209-MinimumSizeSubarraySum/)
--   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Array%20%26%20Hashing/239-SlidingWindowMaximum/)
--   [x] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](/Array%20%26%20Hashing/713-SubarrayProductLessThanK/)
+-   [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/): [Solution](/Array/271-EncodeandDecodeStrings/)
+-   [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/): [Solution](/Array/215-KthLargestElementinanArray/)
+-   [x] [Interval List Intersections](/https://leetcode.com/problems/interval-list-intersections/): [Solution](/Array/986-IntervalListIntersections/)
+-   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/): [Solution](/Array/56-MergeIntervals/)
+-   [x] [Insert Interval](https://leetcode.com/problems/insert-interval/): [Solution](/Array/57-InsertInterval/)
+-   [x] [Meeting rooms](https://leetcode.com/problems/meeting-rooms/): [Solution](/Array/252-MeetingRooms/)
+-   [x] [Meeting rooms II](https://leetcode.com/problems/meeting-rooms-ii/): [Solution](/Array/253-MeetingRoomsII/)
+
+---
+
+### Hash Table
+
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum/): [Solution](/Hash%20Table/1-TwoSum/)
+-   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Hash%20Table/36-ValidSudoku/)
+-   [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/): [Solution](/Hash%20Table/49-GroupAnagrams/)
+-   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Hash%20Table/217-ContainsDuplicate/)
+-   [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/): [Solution](/Hash%20Table/242-ValidAnagram/)
+-   [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/): [Solution](/Hash%20Table/347-TopKFrequentElements/)
+-   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Hash%20Table/128-LongestConsecutiveSequence/)
+-   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Hash%20Table/349-IntersectionofTwoArrays/)
+-   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Hash%20Table/350-IntersectionofTwoArraysII/)
+
+---
+
+### Sliding Window
+
+-   [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/): [Solution](/Sliding%20Window/76-MinimumWindowSubstring/)
+-   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Sliding%20Window/209-MinimumSizeSubarraySum/)
+-   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Sliding%20Window/239-SlidingWindowMaximum/)
+-   [x] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](/Sliding%20Window/713-SubarrayProductLessThanK/)
+
+---
+
+### Prefix Sum
+
+-   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Prefix%20Sum/238-ProductofArrayExceptSelf/)
 
 ---
 
@@ -42,10 +64,6 @@
 -   [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/): [Solution](/Binary%20Search/162-FindPeakElement/)
 -   [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/): [Solution](/Binary%20Search/875-KokoEatingBananas/)
 -   [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/): [Solution](/Binary%20Search/1283-FindtheSmallestDivisorGivenaThreshold/)
--   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/): [Solution](/Array%20%26%20Hashing/56-MergeIntervals/)
--   [x] [Insert Interval](https://leetcode.com/problems/insert-interval/): [Solution](/Array%20%26%20Hashing/57-InsertInterval/)
--   [x] [Meeting rooms](https://leetcode.com/problems/meeting-rooms/): [Solution](/Array%20%26%20Hashing/252-MeetingRooms/)
--   [x] [Meeting rooms II](https://leetcode.com/problems/meeting-rooms-ii/): [Solution](/Array%20%26%20Hashing/253-MeetingRoomsII/)
 
 ---
 
