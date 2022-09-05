@@ -2,12 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 54
+##### Problem Solved: 55
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (9)
 -   [Sliding Window](#sliding-window) (4)
--   [Prefix Sum](#prefix-sum) (3)
+-   [Prefix Sum](#prefix-sum) (4)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
@@ -53,6 +53,7 @@
 -   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Prefix%20Sum/238-ProductofArrayExceptSelf/)
 -   [x] [Maximum Subarray](/https://leetcode.com/problems/maximum-subarray/): [Solution](/Prefix%20Sum/53-MaximumSubarray/)
 -   [x] [Range sum query - immutable](https://leetcode.com/problems/range-sum-query-immutable/): [Solution](/Prefix%20Sum/303-RangeSumQuer-Immutable/)
+-   [x] [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/): [Solution](/Prefix%20Sum/325-MaximumSizeSubarraySumEqulask/)
 
 ---
 
