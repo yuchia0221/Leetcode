@@ -11,7 +11,7 @@
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
--   [String] (4)
+-   [String](#string) (4)
 
 ### Array
 
