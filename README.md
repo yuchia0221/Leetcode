@@ -2,10 +2,10 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 57
+##### Problem Solved: 58
 
 -   [Array & Hashing](#array) (7)
--   [Hash Table](#hash-table) (9)
+-   [Hash Table](#hash-table) (10)
 -   [Sliding Window](#sliding-window) (4)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Binary Serch](#binary-search) (8)
@@ -36,6 +36,7 @@
 -   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Hash%20Table/128-LongestConsecutiveSequence/)
 -   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Hash%20Table/349-IntersectionofTwoArrays/)
 -   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Hash%20Table/350-IntersectionofTwoArraysII/)
+-   [x] [4Sum](https://leetcode.com/problems/4sum/): [Solution](/Hash%20Table/18-4Sum/)
 
 ---
 
