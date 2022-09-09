@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 58
+##### Problem Solved: 59
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -12,6 +12,7 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (6)
 -   [String](#string) (4)
+-   [Binary Tree](#binary-tree) (1)
 
 ### Array
 
@@ -110,3 +111,7 @@
 -   [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
 
 ---
+
+### Binary Tree
+
+-   [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/): [Solution](/Binary%20Tree/103-BinaryTreeZigzagLevelOrderTraversal/)
