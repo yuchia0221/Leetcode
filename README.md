@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 62
+##### Problem Solved: 63
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -13,7 +13,7 @@
 -   [Linked List](#linked-list) (6)
 -   [String](#string) (4)
 -   [Binary Tree](#binary-tree) (3)
--   [Dynamic Programming]() (1)
+-   [Dynamic Programming](#dynamic-programming) (2)
 
 ### Array
 
@@ -124,3 +124,6 @@
 ### Dynamic Programming
 
 -   [x] [Integer Break](https://leetcode.com/problems/integer-break/): [Solution](/Dynamic%20Programming/343-IntegerBreak/)
+-   [x] [Integer Replacement](https://leetcode.com/problems/integer-replacement/): [Solution](/Dynamic%20Programming/397-IntegerReplacement/)
+
+---
