@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 61
+##### Problem Solved: 62
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -13,6 +13,7 @@
 -   [Linked List](#linked-list) (6)
 -   [String](#string) (4)
 -   [Binary Tree](#binary-tree) (3)
+-   [Dynamic Programming]() (1)
 
 ### Array
 
@@ -119,3 +120,7 @@
 -   [x] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/): [Solution](/Binary%20Tree/513-FindBottomLeftTreeValue/)
 
 ---
+
+### Dynamic Programming
+
+-   [x] [Integer Break](https://leetcode.com/problems/integer-break/): [Solution](/Dynamic%20Programming/343-IntegerBreak/)
