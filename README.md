@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 67
+##### Problem Solved: 68
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -16,6 +16,7 @@
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (3)
+-   [Union Find](#union-find) (1)
 
 ### Array
 
@@ -141,5 +142,11 @@
 -   [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/): [Solution](/Depth-first%20Search/210-CourseScheduleII/)
 -   [x] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/): [Solution](/Depth-first%20Search/269-AlienDictionary/)
 -   [x] [The Maze](https://leetcode.com/problems/the-maze/): [Solution](/Depth-first%20Search/490-TheMaze/)
+
+---
+
+### Union Find
+
+-  [x] [Number of Islands II](/Union%20Find/305-NumberofIslandsII/): [Solution]()
 
 ---
