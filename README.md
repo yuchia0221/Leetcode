@@ -148,6 +148,6 @@
 
 ### Union Find
 
--  [x] [Number of Islands II](/Union%20Find/305-NumberofIslandsII/): [Solution]()
+-   [x] [Number of Islands II](/Union%20Find/305-NumberofIslandsII/): [Solution](/Union%20Find/305-NumberofIslandsII/)
 
 ---
