@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 70
+##### Problem Solved: 71
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -15,7 +15,7 @@
 -   [Binary Tree](#binary-tree) (3)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
--   [Depth-first Search](#depth-first-search) (5)
+-   [Depth-first Search](#depth-first-search) (6)
 -   [Union Find](#union-find) (1)
 
 ### Array
@@ -143,7 +143,8 @@
 -   [x] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/): [Solution](/Depth-first%20Search/269-AlienDictionary/)
 -   [x] [The Maze](https://leetcode.com/problems/the-maze/): [Solution](/Depth-first%20Search/490-TheMaze/)
 -   [x] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/): [Solution](/Depth-first%20Search/261-GraphValidTree/)
--   [x] [Keys and Rooms](): [Solution](/Depth-first%20Search/841-KeysandRooms/)
+-   [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/): [Solution](/Depth-first%20Search/841-KeysandRooms/)
+-   [x] [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/): [Solution](/Depth-first%20Search/694-NumberofDistinctIslands/)
 
 ---
 
