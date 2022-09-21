@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 73
+##### Problem Solved: 74
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -11,7 +11,7 @@
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
--   [String](#string) (4)
+-   [String](#string) (5)
 -   [Binary Tree](#binary-tree) (3)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
@@ -114,6 +114,7 @@
 -   [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/): [Solution](/String/345-ReverseVowelsofaString/)
 -   [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/): [Solution](/String/680-ValidPalindromeII/)
 -   [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
+-   [x] [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/): [Solution](/String/1209-RemoveAllAdjacentDuplicatesinStringII/)
 
 ---
 
