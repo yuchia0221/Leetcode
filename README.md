@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 72
+##### Problem Solved: 73
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -10,7 +10,7 @@
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Binary Serch](#binary-search) (8)
 -   [Two Pointers](#two-pointers) (13)
--   [Linked List](#linked-list) (6)
+-   [Linked List](#linked-list) (7)
 -   [String](#string) (4)
 -   [Binary Tree](#binary-tree) (3)
 -   [Dynamic Programming](#dynamic-programming) (2)
@@ -104,6 +104,7 @@
 -   [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/): [Solution](/Linked%20List/160-IntersectionofTwoLinkedLists/)
 -   [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/): [Solution](/Linked%20List/234-PalindromeLinkedList/)
 -   [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/): [Solution](/Linked%20List/328-OddEvenLinkedList/)
+-   [x] [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/): [Solution](/Linked%20List/1836-RemoveDuplicatesFromanUnsortedLinkedList/)
 
 ---
 
