@@ -11,7 +11,7 @@ class TreeNode:
         self.right = right
 ```
 
-### [Solution](/Binary%20Tree/106-ConstructBinaryTreefromInorderandPostorderTraversal/solution.py): Breadth-First Search
+### [Solution](/Binary%20Tree/106-ConstructBinaryTreefromInorderandPostorderTraversal/solution.py)
 
 ```python
 def buildTree(inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
