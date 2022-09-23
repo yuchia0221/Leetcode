@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 74
+##### Problem Solved: 75
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -12,7 +12,7 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
 -   [String](#string) (5)
--   [Binary Tree](#binary-tree) (3)
+-   [Binary Tree](#binary-tree) (4)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (7)
@@ -123,6 +123,7 @@
 -   [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/): [Solution](/Binary%20Tree/103-BinaryTreeZigzagLevelOrderTraversal/)
 -   [x] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/): [Solution](/Binary%20Tree/107-BinaryTreeLevelOrderTraversalII/)
 -   [x] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/): [Solution](/Binary%20Tree/513-FindBottomLeftTreeValue/)
+-   [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/): [Solution](/Binary%20Tree/94-BinaryTreeInorderTraversal/)
 
 ---
 
