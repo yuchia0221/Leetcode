@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 76
+##### Problem Solved: 77
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -12,7 +12,7 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
 -   [String](#string) (5)
--   [Binary Tree](#binary-tree) (5)
+-   [Binary Tree](#binary-tree) (6)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (7)
@@ -125,6 +125,7 @@
 -   [x] [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/): [Solution](/Binary%20Tree/513-FindBottomLeftTreeValue/)
 -   [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/): [Solution](/Binary%20Tree/94-BinaryTreeInorderTraversal/)
 -   [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/): [Solution](/Binary%20Tree/144-BinaryTreePreorderTraversal/)
+-   [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/): [Solution](/Binary%20Tree/145-BinaryTreePostorderTraversal/)
 
 ---
 
