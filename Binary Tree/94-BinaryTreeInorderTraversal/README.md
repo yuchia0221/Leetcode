@@ -11,7 +11,7 @@ class TreeNode:
         self.right = right
 ```
 
-### [Solution](/Binary%20Tree/94-BinaryTreeInorderTraversal/solution.py): Breadth-First Search
+### [Solution](/Binary%20Tree/94-BinaryTreeInorderTraversal/solution.py): Recursion
 
 ```python
 class Solution:
