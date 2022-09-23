@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 78
+##### Problem Solved: 79
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -12,7 +12,7 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
 -   [String](#string) (5)
--   [Binary Tree](#binary-tree) (7)
+-   [Binary Tree](#binary-tree) (8)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (7)
@@ -127,7 +127,7 @@
 -   [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/): [Solution](/Binary%20Tree/144-BinaryTreePreorderTraversal/)
 -   [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/): [Solution](/Binary%20Tree/145-BinaryTreePostorderTraversal/)
 -   [x] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/): [Solution](/Binary%20Tree/106-ConstructBinaryTreefromInorderandPostorderTraversal/)
-
+-   [x] [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/): [Solution](/Binary%20Tree/889-ConstructBinaryTreefromPreorderandPostorderTraversal/)
 ---
 
 ### Dynamic Programming
