@@ -11,7 +11,7 @@ class TreeNode:
         self.right = right
 ```
 
-### [Solution](/Binary%20Tree/173-BinarySearchTreeIterator/solution.py): Recursion
+### [Solution](/Binary%20Tree/100-SameTree/solution.py): Recursion
 
 ```python
 def isSameTree(p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
