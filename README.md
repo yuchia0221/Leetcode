@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 83
+##### Problem Solved: 84
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -12,7 +12,7 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
 -   [String](#string) (5)
--   [Binary Tree](#binary-tree) (12)
+-   [Binary Tree](#binary-tree) (13)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (7)
@@ -132,6 +132,7 @@
 -   [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/): [Solution](/Binary%20Tree/230-KthSmallestElementinaBST/)
 -   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Tree/285-InorderSuccessorinBST/)
 -   [x] [Same Tree](https://leetcode.com/problems/same-tree/): : [Solution](/Binary%20Tree/100-SameTree/)
+-   [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/): [Solution](/Binary%20Tree/101-SymmetricTree/)
 
 ---
 
