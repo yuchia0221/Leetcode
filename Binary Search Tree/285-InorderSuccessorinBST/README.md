@@ -11,7 +11,7 @@ class TreeNode:
         self.right = right
 ```
 
-### [Solution](/Binary%20Tree/285-InorderSuccessorinBST/solution.py)
+### [Solution](/Binary%20Search%20Tree/285-InorderSuccessorinBST/solution.py)
 
 ```python
 def inorderSuccessor(root: TreeNode, p: TreeNode) -> Optional[TreeNode]:

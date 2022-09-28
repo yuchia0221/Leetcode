@@ -11,7 +11,7 @@ class TreeNode:
         self.right = right
 ```
 
-### [Solution](/Binary%20Tree/173-BinarySearchTreeIterator/solution.py): Inorder Traversal
+### [Solution](/Binary%20Search%20Tree/173-BinarySearchTreeIterator/solution.py): Inorder Traversal
 
 ```python
 class BSTIterator:

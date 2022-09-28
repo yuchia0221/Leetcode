@@ -12,7 +12,8 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
 -   [String](#string) (5)
--   [Binary Tree](#binary-tree) (14)
+-   [Binary Tree](#binary-tree) (11)
+-   [Binary Search Tree](#binary-search-tree) (3)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (7)
@@ -128,12 +129,17 @@
 -   [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/): [Solution](/Binary%20Tree/145-BinaryTreePostorderTraversal/)
 -   [x] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/): [Solution](/Binary%20Tree/106-ConstructBinaryTreefromInorderandPostorderTraversal/)
 -   [x] [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/): [Solution](/Binary%20Tree/889-ConstructBinaryTreefromPreorderandPostorderTraversal/)
--   [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/): [Solution](/Binary%20Tree/173-BinarySearchTreeIterator/)
--   [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/): [Solution](/Binary%20Tree/230-KthSmallestElementinaBST/)
--   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Tree/285-InorderSuccessorinBST/)
 -   [x] [Same Tree](https://leetcode.com/problems/same-tree/): : [Solution](/Binary%20Tree/100-SameTree/)
 -   [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/): [Solution](/Binary%20Tree/101-SymmetricTree/)
--   [x] [Balanced Binary Tree](): [Solution](/Binary%20Tree/110-BalancedBinaryTree/)
+-   [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/): [Solution](/Binary%20Tree/110-BalancedBinaryTree/)
+
+---
+
+### Binary Search Tree
+
+-   [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/): [Solution](/Binary%20Search%20Tree/173-BinarySearchTreeIterator/)
+-   [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/): [Solution](/Binary%20Search%20Tree/230-KthSmallestElementinaBST/)
+-   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Search%20Tree/285-InorderSuccessorinBST/)
 
 ---
 
