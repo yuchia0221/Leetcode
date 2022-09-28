@@ -1,6 +1,6 @@
 # Balanced Binary Tree
 
-Problem can be found in [here](https://leetcode.com/problems/same-tree/)!
+Problem can be found in [here](https://leetcode.com/problems/balanced-binary-tree/)!
 
 ```python
 # Definition for a binary tree node.
