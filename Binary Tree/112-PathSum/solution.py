@@ -15,7 +15,7 @@ class Solution:
         if not root:
             return False
 
-        queue = deque([root, targetSum-root.val])
+        queue = deque([[root, targetSum-root.val]])
         while queue:
             node, current_sum = queue.popleft()
             left_node, right_node = node.left, node.right
