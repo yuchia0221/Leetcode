@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 86
+##### Problem Solved: 87
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -12,7 +12,7 @@
 -   [Two Pointers](#two-pointers) (13)
 -   [Linked List](#linked-list) (7)
 -   [String](#string) (5)
--   [Binary Tree](#binary-tree) (12)
+-   [Binary Tree](#binary-tree) (13)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
@@ -133,6 +133,8 @@
 -   [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/): [Solution](/Binary%20Tree/101-SymmetricTree/)
 -   [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/): [Solution](/Binary%20Tree/110-BalancedBinaryTree/)
 -   [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/): [Solution](/Binary%20Tree/111-MinimumDepthofBinaryTree/)
+-   [x] [Path Sum](https://leetcode.com/problems/path-sum/): [Solution](/Binary%20Tree/112-PathSum/)
+
 ---
 
 ### Binary Search Tree
