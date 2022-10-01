@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 91
+##### Problem Solved: 92
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -17,7 +17,7 @@
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (7)
--   [Union Find](#union-find) (2)
+-   [Union Find](#union-find) (3)
 
 ### Array
 
@@ -177,5 +177,6 @@
 
 -   [x] [Number of Islands II](/Union%20Find/305-NumberofIslandsII/): [Solution](/Union%20Find/305-NumberofIslandsII/)
 -   [x] [Evaluate Division](https://leetcode.com/problems/evaluate-division/): [Solution](/Union%20Find/399-EvaluateDivision/)
+-   [x] [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/): [Solution](/Union%20Find/952-LargestComponentSizebyCommonFactor/)
 
 ---
