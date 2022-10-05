@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 93
+##### Problem Solved: 94
 
 -   [Array & Hashing](#array) (7)
 -   [Hash Table](#hash-table) (10)
@@ -16,7 +16,7 @@
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Dynamic Programming](#dynamic-programming) (2)
 -   [Breadth-first Search](#breadth-first-search) (1)
--   [Depth-first Search](#depth-first-search) (8)
+-   [Depth-first Search](#depth-first-search) (9)
 -   [Union Find](#union-find) (3)
 
 ### Array
@@ -171,6 +171,7 @@
 -   [x] [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/): [Solution](/Depth-first%20Search/694-NumberofDistinctIslands/)
 -   [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/): [Solution](/Depth-first%20Search/40-CombinationSumII/)
 -   [x] [Permutations II](https://leetcode.com/problems/permutations-ii/): [Solution](/Depth-first%20Search/47-PermutationsII/)
+-   [x] [Combinations](https://leetcode.com/problems/combinations/): [Solution](/Depth-first%20Search/77-Combinations/)
 
 ---
 
