@@ -2,7 +2,7 @@
 
 Problem can be found in [here](https://leetcode.com/problems/combinations/)!
 
-### [Solution](/Backtracking/77-Combinations/solution.py): Depth-frist Search
+### [Solution](/Backtracking/77-Combinations/solution.py): Backtracking
 
 ```python
 def combine(n: int, k: int) -> List[List[int]]:
