@@ -2,7 +2,7 @@
 
 Problem can be found in [here](https://leetcode.com/problems/combination-sum-ii/)!
 
-### [Solution](/Depth-first%20Search/40-CombinationSumII/solution.py): Depth-first Search
+### [Solution](/Backtracking/40-CombinationSumII/solution.py): Depth-first Search
 
 ```python
 def combinationSum2(candidates: List[int], target: int) -> List[List[int]]:

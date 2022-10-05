@@ -5,18 +5,19 @@
 ##### Problem Solved: 94
 
 -   [Array & Hashing](#array) (7)
--   [Hash Table](#hash-table) (10)
--   [Sliding Window](#sliding-window) (4)
--   [Prefix Sum](#prefix-sum) (6)
+-   [Backtracking](#backtraking) (3)
 -   [Binary Serch](#binary-search) (8)
--   [Two Pointers](#two-pointers) (13)
--   [Linked List](#linked-list) (7)
--   [String](#string) (5)
--   [Binary Tree](#binary-tree) (16)
 -   [Binary Search Tree](#binary-search-tree) (3)
--   [Dynamic Programming](#dynamic-programming) (2)
+-   [Binary Tree](#binary-tree) (16)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (9)
+-   [Dynamic Programming](#dynamic-programming) (2)
+-   [Hash Table](#hash-table) (10)
+-   [Linked List](#linked-list) (7)
+-   [Prefix Sum](#prefix-sum) (6)
+-   [Sliding Window](#sliding-window) (4)
+-   [String](#string) (5)
+-   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
 
 ### Array
@@ -31,38 +32,11 @@
 
 ---
 
-### Hash Table
+### Backtraking
 
--   [x] [Two Sum](https://leetcode.com/problems/two-sum/): [Solution](/Hash%20Table/1-TwoSum/)
--   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Hash%20Table/36-ValidSudoku/)
--   [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/): [Solution](/Hash%20Table/49-GroupAnagrams/)
--   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Hash%20Table/217-ContainsDuplicate/)
--   [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/): [Solution](/Hash%20Table/242-ValidAnagram/)
--   [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/): [Solution](/Hash%20Table/347-TopKFrequentElements/)
--   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Hash%20Table/128-LongestConsecutiveSequence/)
--   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Hash%20Table/349-IntersectionofTwoArrays/)
--   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Hash%20Table/350-IntersectionofTwoArraysII/)
--   [x] [4Sum](https://leetcode.com/problems/4sum/): [Solution](/Hash%20Table/18-4Sum/)
-
----
-
-### Sliding Window
-
--   [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/): [Solution](/Sliding%20Window/76-MinimumWindowSubstring/)
--   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Sliding%20Window/209-MinimumSizeSubarraySum/)
--   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Sliding%20Window/239-SlidingWindowMaximum/)
--   [x] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](/Sliding%20Window/713-SubarrayProductLessThanK/)
-
----
-
-### Prefix Sum
-
--   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Prefix%20Sum/238-ProductofArrayExceptSelf/)
--   [x] [Maximum Subarray](/https://leetcode.com/problems/maximum-subarray/): [Solution](/Prefix%20Sum/53-MaximumSubarray/)
--   [x] [Range sum query - immutable](https://leetcode.com/problems/range-sum-query-immutable/): [Solution](/Prefix%20Sum/303-RangeSumQuer-Immutable/)
--   [x] [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/): [Solution](/Prefix%20Sum/325-MaximumSizeSubarraySumEqulask/)
--   [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/): [Solution](/Prefix%20Sum/560-SubarraySumEqualsK/)
--   [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/): [Solution](/Prefix%20Sum/528-RandomPickwithWeight/)
+-   [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/): [Solution](/Backtracking/40-CombinationSumII/)
+-   [x] [Permutations II](https://leetcode.com/problems/permutations-ii/): [Solution](/Backtracking/47-PermutationsII/)
+-   [x] [Combinations](https://leetcode.com/problems/combinations/): [Solution](/Backtracking/77-Combinations/)
 
 ---
 
@@ -79,43 +53,11 @@
 
 ---
 
-### Two Pointers
+### Binary Search Tree
 
--   [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/): [Solution](/Two%20Pointers/125-ValidPalindrome/)
--   [x] [167-TwoSumII-InputArrayIsSorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Solution](/Two%20Pointers/167-TwoSumII-InputArrayIsSorted/)
--   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Two%20Pointers/15-3Sum/)
--   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/): [Solution](/Two%20Pointers/11-ContainerWithMostWater/)
--   [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/): [Solution](/Two%20Pointers/42-TrappingRainWater/)
--   [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/): [Solution](/Two%20Pointers/912-SortanArray/)
--   [x] [Sort Colors](https://leetcode.com/problems/sort-colors/): [Solution](/Two%20Pointers/75-SortColors/)
--   [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [Solution](/Two%20Pointers/26-RemoveDuplicatesfromSortedArray/)
--   [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/): [Solution](/Two%20Pointers/80-RemoveDuplicatesfromSortedArrayII/)
--   [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/): [Solution](/Two%20Pointers/88-MergeSortedArray/)
--   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Two%20Pointers/283-MoveZeroes/)
--   [x] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/): [Solution](/Two%20Pointers/845-LongestMountaininArray/)
--   [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/): [Solution](/Two%20Pointers/43-MultiplyStrings/)
-
----
-
-### Linked List
-
--   [x] [Multiply Strings](https://leetcode.com/problems/merge-two-sorted-lists/): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
--   [x] [Partition List](https://leetcode.com/problems/partition-list/): [Solution](/Linked%20List/86-PartitionList/)
--   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [Solution](/Linked%20List/141-LinkedListCycle/)
--   [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/): [Solution](/Linked%20List/160-IntersectionofTwoLinkedLists/)
--   [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/): [Solution](/Linked%20List/234-PalindromeLinkedList/)
--   [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/): [Solution](/Linked%20List/328-OddEvenLinkedList/)
--   [x] [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/): [Solution](/Linked%20List/1836-RemoveDuplicatesFromanUnsortedLinkedList/)
-
----
-
-### String
-
--   [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/): [Solution](/String/5-LongestPalindromicSubstring/)
--   [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/): [Solution](/String/345-ReverseVowelsofaString/)
--   [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/): [Solution](/String/680-ValidPalindromeII/)
--   [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
--   [x] [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/): [Solution](/String/1209-RemoveAllAdjacentDuplicatesinStringII/)
+-   [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/): [Solution](/Binary%20Search%20Tree/173-BinarySearchTreeIterator/)
+-   [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/): [Solution](/Binary%20Search%20Tree/230-KthSmallestElementinaBST/)
+-   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Search%20Tree/285-InorderSuccessorinBST/)
 
 ---
 
@@ -140,21 +82,6 @@
 
 ---
 
-### Binary Search Tree
-
--   [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/): [Solution](/Binary%20Search%20Tree/173-BinarySearchTreeIterator/)
--   [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/): [Solution](/Binary%20Search%20Tree/230-KthSmallestElementinaBST/)
--   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Search%20Tree/285-InorderSuccessorinBST/)
-
----
-
-### Dynamic Programming
-
--   [x] [Integer Break](https://leetcode.com/problems/integer-break/): [Solution](/Dynamic%20Programming/343-IntegerBreak/)
--   [x] [Integer Replacement](https://leetcode.com/problems/integer-replacement/): [Solution](/Dynamic%20Programming/397-IntegerReplacement/)
-
----
-
 ### Breadth-first Search
 
 -   [x] [The Maze II](https://leetcode.com/problems/the-maze-ii/): [Solution](/Breadth-first%20Search/505-TheMazeII/)
@@ -169,9 +96,88 @@
 -   [x] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/): [Solution](/Depth-first%20Search/261-GraphValidTree/)
 -   [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/): [Solution](/Depth-first%20Search/841-KeysandRooms/)
 -   [x] [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/): [Solution](/Depth-first%20Search/694-NumberofDistinctIslands/)
--   [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/): [Solution](/Depth-first%20Search/40-CombinationSumII/)
--   [x] [Permutations II](https://leetcode.com/problems/permutations-ii/): [Solution](/Depth-first%20Search/47-PermutationsII/)
--   [x] [Combinations](https://leetcode.com/problems/combinations/): [Solution](/Depth-first%20Search/77-Combinations/)
+
+---
+
+### Dynamic Programming
+
+-   [x] [Integer Break](https://leetcode.com/problems/integer-break/): [Solution](/Dynamic%20Programming/343-IntegerBreak/)
+-   [x] [Integer Replacement](https://leetcode.com/problems/integer-replacement/): [Solution](/Dynamic%20Programming/397-IntegerReplacement/)
+
+---
+
+### Hash Table
+
+-   [x] [Two Sum](https://leetcode.com/problems/two-sum/): [Solution](/Hash%20Table/1-TwoSum/)
+-   [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [Solution](/Hash%20Table/36-ValidSudoku/)
+-   [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/): [Solution](/Hash%20Table/49-GroupAnagrams/)
+-   [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Hash%20Table/217-ContainsDuplicate/)
+-   [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/): [Solution](/Hash%20Table/242-ValidAnagram/)
+-   [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/): [Solution](/Hash%20Table/347-TopKFrequentElements/)
+-   [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/): [Solution](/Hash%20Table/128-LongestConsecutiveSequence/)
+-   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Hash%20Table/349-IntersectionofTwoArrays/)
+-   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Hash%20Table/350-IntersectionofTwoArraysII/)
+-   [x] [4Sum](https://leetcode.com/problems/4sum/): [Solution](/Hash%20Table/18-4Sum/)
+
+---
+
+### Linked List
+
+-   [x] [Multiply Strings](https://leetcode.com/problems/merge-two-sorted-lists/): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
+-   [x] [Partition List](https://leetcode.com/problems/partition-list/): [Solution](/Linked%20List/86-PartitionList/)
+-   [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [Solution](/Linked%20List/141-LinkedListCycle/)
+-   [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/): [Solution](/Linked%20List/160-IntersectionofTwoLinkedLists/)
+-   [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/): [Solution](/Linked%20List/234-PalindromeLinkedList/)
+-   [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/): [Solution](/Linked%20List/328-OddEvenLinkedList/)
+-   [x] [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/): [Solution](/Linked%20List/1836-RemoveDuplicatesFromanUnsortedLinkedList/)
+
+---
+
+### Prefix Sum
+
+-   [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/): [Solution](/Prefix%20Sum/238-ProductofArrayExceptSelf/)
+-   [x] [Maximum Subarray](/https://leetcode.com/problems/maximum-subarray/): [Solution](/Prefix%20Sum/53-MaximumSubarray/)
+-   [x] [Range sum query - immutable](https://leetcode.com/problems/range-sum-query-immutable/): [Solution](/Prefix%20Sum/303-RangeSumQuer-Immutable/)
+-   [x] [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/): [Solution](/Prefix%20Sum/325-MaximumSizeSubarraySumEqulask/)
+-   [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/): [Solution](/Prefix%20Sum/560-SubarraySumEqualsK/)
+-   [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/): [Solution](/Prefix%20Sum/528-RandomPickwithWeight/)
+
+---
+
+### Sliding Window
+
+-   [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/): [Solution](/Sliding%20Window/76-MinimumWindowSubstring/)
+-   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Sliding%20Window/209-MinimumSizeSubarraySum/)
+-   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Sliding%20Window/239-SlidingWindowMaximum/)
+-   [x] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](/Sliding%20Window/713-SubarrayProductLessThanK/)
+
+---
+
+### String
+
+-   [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/): [Solution](/String/5-LongestPalindromicSubstring/)
+-   [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/): [Solution](/String/345-ReverseVowelsofaString/)
+-   [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/): [Solution](/String/680-ValidPalindromeII/)
+-   [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
+-   [x] [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/): [Solution](/String/1209-RemoveAllAdjacentDuplicatesinStringII/)
+
+---
+
+### Two Pointers
+
+-   [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/): [Solution](/Two%20Pointers/125-ValidPalindrome/)
+-   [x] [167-TwoSumII-InputArrayIsSorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): [Solution](/Two%20Pointers/167-TwoSumII-InputArrayIsSorted/)
+-   [x] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Two%20Pointers/15-3Sum/)
+-   [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/): [Solution](/Two%20Pointers/11-ContainerWithMostWater/)
+-   [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/): [Solution](/Two%20Pointers/42-TrappingRainWater/)
+-   [x] [Sort an Array](https://leetcode.com/problems/sort-an-array/): [Solution](/Two%20Pointers/912-SortanArray/)
+-   [x] [Sort Colors](https://leetcode.com/problems/sort-colors/): [Solution](/Two%20Pointers/75-SortColors/)
+-   [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [Solution](/Two%20Pointers/26-RemoveDuplicatesfromSortedArray/)
+-   [x] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/): [Solution](/Two%20Pointers/80-RemoveDuplicatesfromSortedArrayII/)
+-   [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/): [Solution](/Two%20Pointers/88-MergeSortedArray/)
+-   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Two%20Pointers/283-MoveZeroes/)
+-   [x] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/): [Solution](/Two%20Pointers/845-LongestMountaininArray/)
+-   [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/): [Solution](/Two%20Pointers/43-MultiplyStrings/)
 
 ---
 

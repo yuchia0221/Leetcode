@@ -2,7 +2,7 @@
 
 Problem can be found in [here](https://leetcode.com/problems/permutations-ii/)!
 
-### [Solution](/Depth-first%20Search/47-PermutationsII/solution.py): Depth-first Search
+### [Solution](/Backtracking/47-PermutationsII/solution.py): Depth-first Search
 
 ```python
 def permuteUnique(nums: List[int]) -> List[List[int]]:
