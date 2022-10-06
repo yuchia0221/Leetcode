@@ -2,10 +2,10 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 95
+##### Problem Solved: 96
 
 -   [Array & Hashing](#array) (7)
--   [Backtracking](#backtraking) (6)
+-   [Backtracking](#backtraking) (7)
 -   [Binary Serch](#binary-search) (8)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (16)
@@ -40,6 +40,7 @@
 -   [x] [Subsets](https://leetcode.com/problems/subsets/): [Solution](/Backtracking/78-Subsets/)
 -   [x] [Subsets II](https://leetcode.com/problems/subsets-ii/): [Solution](/Backtracking/90-SubsetsII/)
 -   [x] [N-Queens](https://leetcode.com/problems/n-queens/): [Solution](/Backtracking/51-N-Queens/)
+-   [x] [Factor Combinations](https://leetcode.com/problems/factor-combinations/): [Solution](/Backtracking/254-FactorCombinations/)
 
 ---
 
