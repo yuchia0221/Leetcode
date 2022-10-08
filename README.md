@@ -2,13 +2,13 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 100
+##### Problem Solved: 101
 
 -   [Array & Hashing](#array) (7)
 -   [Backtracking](#backtraking) (10)
 -   [Binary Serch](#binary-search) (8)
 -   [Binary Search Tree](#binary-search-tree) (3)
--   [Binary Tree](#binary-tree) (16)
+-   [Binary Tree](#binary-tree) (17)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (9)
 -   [Dynamic Programming](#dynamic-programming) (2)
@@ -86,6 +86,7 @@
 -   [x] [Path Sum II](https://leetcode.com/problems/path-sum-ii/): [Solution](/Binary%20Tree/113-PathSumII/)
 -   [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/): [Solution](/Binary%20Tree/124-BinaryTreeMaximumPathSum/)
 -   [x] [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/): [Solution](/Binary%20Tree/331-VerifyPreorderSerializationofaBinaryTree/)
+-   [x] [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/): [Solution](/Binary%20Tree/257-BinaryTreePaths/)
 
 ---
 
