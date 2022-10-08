@@ -2,10 +2,10 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 99
+##### Problem Solved: 100
 
 -   [Array & Hashing](#array) (7)
--   [Backtracking](#backtraking) (9)
+-   [Backtracking](#backtraking) (10)
 -   [Binary Serch](#binary-search) (8)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (16)
@@ -44,7 +44,7 @@
 -   [x] [Factor Combinations](https://leetcode.com/problems/factor-combinations/): [Solution](/Backtracking/254-FactorCombinations/)
 -   [x] [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/): [Solution](/Backtracking/301-RemoveInvalidParentheses/)
 -   [x] [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/): [Solution](/Backtracking/491-IncreasingSubsequences/)
-
+-   [x] [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/): [Solution](/Backtracking/1444-NumberofWaysofCuttingaPizza/)
 ---
 
 ### Binary Search
