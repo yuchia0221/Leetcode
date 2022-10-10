@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 103
+##### Problem Solved: 104
 
 -   [Array & Hashing](#array) (7)
 -   [Backtracking](#backtraking) (11)
@@ -10,7 +10,7 @@
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (17)
 -   [Breadth-first Search](#breadth-first-search) (1)
--   [Depth-first Search](#depth-first-search) (9)
+-   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (3)
 -   [Hash Table](#hash-table) (10)
 -   [Heap / Priority Queue](#heap) (1)
@@ -106,6 +106,7 @@
 -   [x] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/): [Solution](/Depth-first%20Search/261-GraphValidTree/)
 -   [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/): [Solution](/Depth-first%20Search/841-KeysandRooms/)
 -   [x] [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/): [Solution](/Depth-first%20Search/694-NumberofDistinctIslands/)
+-   [x] [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/): [Solution](/Depth-first%20Search/1192-CriticalConnectionsinaNetwork/)
 
 ---
 
