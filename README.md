@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 104
+##### Problem Solved: 105
 
 -   [Array & Hashing](#array) (7)
 -   [Backtracking](#backtraking) (11)
@@ -12,7 +12,7 @@
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (3)
--   [Hash Table](#hash-table) (10)
+-   [Hash Table](#hash-table) (11)
 -   [Heap / Priority Queue](#heap) (1)
 -   [Linked List](#linked-list) (7)
 -   [Prefix Sum](#prefix-sum) (6)
@@ -130,6 +130,7 @@
 -   [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/): [Solution](/Hash%20Table/349-IntersectionofTwoArrays/)
 -   [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/): [Solution](/Hash%20Table/350-IntersectionofTwoArraysII/)
 -   [x] [4Sum](https://leetcode.com/problems/4sum/): [Solution](/Hash%20Table/18-4Sum/)
+-   [x] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/): [Solution](/Hash%20Table/442-FindAllDuplicatesinanArray/)
 
 ---
 
