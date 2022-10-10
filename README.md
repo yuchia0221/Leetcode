@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 105
+##### Problem Solved: 106
 
--   [Array & Hashing](#array) (7)
+-   [Array & Hashing](#array) (8)
 -   [Backtracking](#backtraking) (11)
 -   [Binary Serch](#binary-search) (8)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -30,6 +30,7 @@
 -   [x] [Insert Interval](https://leetcode.com/problems/insert-interval/): [Solution](/Array/57-InsertInterval/)
 -   [x] [Meeting rooms](https://leetcode.com/problems/meeting-rooms/): [Solution](/Array/252-MeetingRooms/)
 -   [x] [Meeting rooms II](https://leetcode.com/problems/meeting-rooms-ii/): [Solution](/Array/253-MeetingRoomsII/)
+-   [x] [Rotate Image](https://leetcode.com/problems/rotate-image/): [Solution](/Array/48-RotateImage/)
 
 ---
 
