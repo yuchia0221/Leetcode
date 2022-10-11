@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 109
+##### Problem Solved: 110
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -17,7 +17,7 @@
 -   [Linked List](#linked-list) (7)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Sliding Window](#sliding-window) (4)
--   [String](#string) (6)
+-   [String](#string) (7)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
 
@@ -183,6 +183,7 @@
 -   [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
 -   [x] [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/): [Solution](/String/1209-RemoveAllAdjacentDuplicatesinStringII/)
 -   [x] [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/): [Solution](/String/6-ZigzagConversion/)
+-   [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/): [Solution](/String/13-RomantoInteger/)
 
 ---
 
