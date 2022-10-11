@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 112
+##### Problem Solved: 113
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -17,7 +17,7 @@
 -   [Linked List](#linked-list) (7)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Sliding Window](#sliding-window) (4)
--   [String](#string) (9)
+-   [String](#string) (10)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
 
@@ -186,6 +186,7 @@
 -   [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/): [Solution](/String/13-RomantoInteger/)
 -   [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/): [Solution](/String/14-LongestCommonPrefix/)
 -   [x] [Text Justification](https://leetcode.com/problems/text-justification/): [Solution](/String/68-TextJustification/)
+-   [x] [String Compression](https://leetcode.com/problems/string-compression/): [Solution](/String/68-TextJustification/)
 
 ---
 
