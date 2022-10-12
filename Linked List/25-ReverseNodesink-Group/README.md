@@ -24,7 +24,7 @@ def reverseKGroup(head: Optional[ListNode], k: int) -> Optional[ListNode]:
             count += 1
 
         if count == k:
-            reversed_head = self.reverse_k_nodes(head, k)
+            reversed_head = reverse_k_nodes(head, k)
             if not new_head:
                 new_head = reversed_head
             if tail:
@@ -36,7 +36,7 @@ def reverseKGroup(head: Optional[ListNode], k: int) -> Optional[ListNode]:
         tail.next = head
     return new_head if new_head else head
 
-def reverse_k_nodes(self, head: ListNode, k: int) -> ListNode:
+def reverse_k_nodes(head: ListNode, k: int) -> ListNode:
     previous_node = None
     while k != 0:
         next_node = head.next
