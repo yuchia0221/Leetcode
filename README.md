@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 121
+##### Problem Solved: 122
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -14,7 +14,7 @@
 -   [Dynamic Programming](#dynamic-programming) (3)
 -   [Hash Table](#hash-table) (11)
 -   [Heap / Priority Queue](#heap) (1)
--   [Linked List](#linked-list) (15)
+-   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Sliding Window](#sliding-window) (4)
 -   [String](#string) (10)
@@ -160,6 +160,8 @@
 -   [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/): [Solution](/Linked%20List/138-CopyListwithRandomPointer/)
 -   [x] [Sort List](https://leetcode.com/problems/sort-list/): [Solution](/Linked%20List/148-SortList/)
 -   [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/): [Solution](/Linked%20List/203-RemoveLinkedListElements/)
+-   [x] [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [Solution](/Linked%20List/445-AddTwoNumbersII/)
+
 ---
 
 ### Prefix Sum
