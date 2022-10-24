@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 124
+##### Problem Solved: 125
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -13,7 +13,7 @@
 -   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (3)
 -   [Hash Table](#hash-table) (13)
--   [Heap / Priority Queue](#heap) (1)
+-   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Sliding Window](#sliding-window) (4)
@@ -142,6 +142,7 @@
 ### Heap
 
 -   [x] [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/): [Solution](/Heap/218-TheSkylineProblem/)
+-   [x] [Reorganize String](https://leetcode.com/problems/reorganize-string/): [Solution](/Heap/767-ReorganizeString/)
 
 ---
 
