@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 126
+##### Problem Solved: 127
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -17,7 +17,7 @@
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Sliding Window](#sliding-window) (4)
--   [Stack](#stack) (1)
+-   [Stack](#stack) (2)
 -   [String](#string) (10)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
@@ -191,6 +191,7 @@
 ### Stack
 
 -   [x] [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/): [Solution](/Stack/227-BasicCalculatorII/)
+-   [x] [Decode String](https://leetcode.com/problems/decode-string/): [Solution](/Stack/394-DecodeString/)
 
 ---
 
