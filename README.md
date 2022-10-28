@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 125
+##### Problem Solved: 126
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -17,6 +17,7 @@
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
 -   [Sliding Window](#sliding-window) (4)
+-   [Stack](#stack) (1)
 -   [String](#string) (10)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
@@ -184,6 +185,12 @@
 -   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Sliding%20Window/209-MinimumSizeSubarraySum/)
 -   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Sliding%20Window/239-SlidingWindowMaximum/)
 -   [x] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](/Sliding%20Window/713-SubarrayProductLessThanK/)
+
+---
+
+### Stack
+
+-   [x] [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/): [Solution](/Stack/227-BasicCalculatorII/)
 
 ---
 
