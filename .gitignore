@@ -153,4 +153,5 @@ dmypy.json
 cython_debug/
 
 # Custom ignored files
+.vscode
 .DS_Store
