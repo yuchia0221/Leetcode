@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 129
+##### Problem Solved: 130
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -19,6 +19,7 @@
 -   [Sliding Window](#sliding-window) (4)
 -   [Stack](#stack) (4)
 -   [String](#string) (10)
+-   [Trie](#trie) (1)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
 
@@ -209,6 +210,12 @@
 -   [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/): [Solution](/String/14-LongestCommonPrefix/)
 -   [x] [Text Justification](https://leetcode.com/problems/text-justification/): [Solution](/String/68-TextJustification/)
 -   [x] [String Compression](https://leetcode.com/problems/string-compression/): [Solution](/String/68-TextJustification/)
+
+---
+
+### Trie
+
+-   [x] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/): [Solution](/Trie/211-ImplementTrie/)
 
 ---
 
