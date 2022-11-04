@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 130
+##### Problem Solved: 131
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -16,6 +16,7 @@
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
+-   [Segment Tree](#)
 -   [Sliding Window](#sliding-window) (4)
 -   [Stack](#stack) (4)
 -   [String](#string) (10)
@@ -177,6 +178,12 @@
 -   [x] [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/): [Solution](/Prefix%20Sum/325-MaximumSizeSubarraySumEqulask/)
 -   [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/): [Solution](/Prefix%20Sum/560-SubarraySumEqualsK/)
 -   [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/): [Solution](/Prefix%20Sum/528-RandomPickwithWeight/)
+
+---
+
+### Segment Tree
+
+-  [x] [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/): [Solution](/Segment%20Tree/307-RangeSumQuery/)
 
 ---
 
