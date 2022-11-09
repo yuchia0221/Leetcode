@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 133
+##### Problem Solved: 134
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -140,6 +140,7 @@
 -   [x] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/): [Solution](/Hash%20Table/953-VerifyinganAlienDictionary/)
 -   [x] [Design HashMap](https://leetcode.com/problems/design-hashmap/): [Solution](/Hash%20Table/706-DesignHashMap/)
 -   [x] [LFU Cache](https://leetcode.com/problems/lfu-cache/): [Solution](/Hash%20Table/460-LFUCache/)
+-   [x] [Design Underground System](https://leetcode.com/problems/design-underground-system/): [Solution](/Hash%20Table/1396-DesignUndergroundSystem/)
 
 ---
 
