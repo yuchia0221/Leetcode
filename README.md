@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 132
+##### Problem Solved: 133
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -16,11 +16,11 @@
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
--   [Segment Tree](#)
+-   [Segment Tree](#segment-tree) (1)
 -   [Sliding Window](#sliding-window) (4)
 -   [Stack](#stack) (4)
 -   [String](#string) (10)
--   [Trie](#trie) (1)
+-   [Trie](#trie) (2)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
 
@@ -184,7 +184,7 @@
 
 ### Segment Tree
 
--  [x] [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/): [Solution](/Segment%20Tree/307-RangeSumQuery/)
+-   [x] [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/): [Solution](/Segment%20Tree/307-RangeSumQuery/)
 
 ---
 
@@ -224,6 +224,7 @@
 ### Trie
 
 -   [x] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/): [Solution](/Trie/211-ImplementTrie/)
+-   [x] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/): [Solution](/Trie/588-DesignIn-MemoryFileSystem/)
 
 ---
 
