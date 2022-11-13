@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 136
+##### Problem Solved: 137
 
 -   [Array & Hashing](#array) (10)
 -   [Backtracking](#backtraking) (11)
@@ -11,7 +11,7 @@
 -   [Binary Tree](#binary-tree) (17)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (10)
--   [Dynamic Programming](#dynamic-programming) (5)
+-   [Dynamic Programming](#dynamic-programming) (6)
 -   [Hash Table](#hash-table) (14)
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
@@ -123,6 +123,8 @@
 -   [x] [Word Break II](https://leetcode.com/problems/word-break-ii/): [Solution](/Dynamic%20Programming/140-WordBreakII/)
 -   [x] [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/): [Solution](/Dynamic%20Programming/10-RegularExpressionMatching/)
 -   [x] [Burst Balloons](https://leetcode.com/problems/burst-balloons/): [Solution](/Dynamic%20Programming/312-BurstBalloons/)
+-   [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/): [Solution](/Dynamic%20Programming/516-LongestPalindromicSubsequence/)
+
 
 ---
 
