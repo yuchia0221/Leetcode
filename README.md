@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 144
+##### Problem Solved: 145
 
 -   [Array & Hashing](#array) (12)
 -   [Backtracking](#backtraking) (11)
@@ -19,7 +19,7 @@
 -   [Segment Tree](#segment-tree) (1)
 -   [Sliding Window](#sliding-window) (4)
 -   [Stack](#stack) (4)
--   [String](#string) (11)
+-   [String](#string) (12)
 -   [Trie](#trie) (2)
 -   [Two Pointers](#two-pointers) (13)
 -   [Union Find](#union-find) (3)
@@ -229,6 +229,7 @@
 -   [x] [Text Justification](https://leetcode.com/problems/text-justification/): [Solution](/String/68-TextJustification/)
 -   [x] [String Compression](https://leetcode.com/problems/string-compression/): [Solution](/String/68-TextJustification/)
 -   [x] [Partition Labels](https://leetcode.com/problems/partition-labels/): [Solution](/String/763-PartitionLabels/)
+-   [x] [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/): [Solution](/String/1328-BreakaPalindrome/)
 
 ---
 
