@@ -2,11 +2,11 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 149
+##### Problem Solved: 150
 
 -   [Array & Hashing](#array) (13)
 -   [Backtracking](#backtraking) (11)
--   [Binary Serch](#binary-search) (8)
+-   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (17)
 -   [Breadth-first Search](#breadth-first-search) (1)
@@ -154,6 +154,7 @@
 -   [x] [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/): [Solution](/Hash%20Table/1010-PairsofSongsWithTotalDurationsDivisibleby60/)
 -   [x] [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/): [Solution](/Hash%20Table/1152-AnalyzeUserWebsiteVisitPattern/)
 -   [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/): [Solution](/Hash%20Table/811-SubdomainVisitCount/)
+-   [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [Solution](/Binary%20Search/81-SearchinRotatedSortedArrayII/)
 
 ---
 
