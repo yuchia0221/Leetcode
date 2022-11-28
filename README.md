@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 148
+##### Problem Solved: 149
 
 -   [Array & Hashing](#array) (13)
 -   [Backtracking](#backtraking) (11)
@@ -12,7 +12,7 @@
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (10)
--   [Hash Table](#hash-table) (16)
+-   [Hash Table](#hash-table) (17)
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (6)
@@ -153,6 +153,7 @@
 -   [x] [Design Underground System](https://leetcode.com/problems/design-underground-system/): [Solution](/Hash%20Table/1396-DesignUndergroundSystem/)
 -   [x] [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/): [Solution](/Hash%20Table/1010-PairsofSongsWithTotalDurationsDivisibleby60/)
 -   [x] [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/): [Solution](/Hash%20Table/1152-AnalyzeUserWebsiteVisitPattern/)
+-   [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/): [Solution](/Hash%20Table/811-SubdomainVisitCount/)
 
 ---
 
