@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 150
+##### Problem Solved: 151
 
 -   [Array & Hashing](#array) (13)
 -   [Backtracking](#backtraking) (11)
@@ -21,7 +21,7 @@
 -   [Stack](#stack) (4)
 -   [String](#string) (12)
 -   [Trie](#trie) (2)
--   [Two Pointers](#two-pointers) (13)
+-   [Two Pointers](#two-pointers) (14)
 -   [Union Find](#union-find) (3)
 
 ### Array
@@ -260,6 +260,7 @@
 -   [x] [Move Zeros](https://leetcode.com/problems/move-zeroes/): [Solution](/Two%20Pointers/283-MoveZeroes/)
 -   [x] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/): [Solution](/Two%20Pointers/845-LongestMountaininArray/)
 -   [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/): [Solution](/Two%20Pointers/43-MultiplyStrings/)
+-   [x] [Next Permutation](https://leetcode.com/problems/next-permutation/): [Solution](/Two%20Pointers/31-NextPermutation/)
 
 ---
 
