@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 145
+##### Problem Solved: 146
 
--   [Array & Hashing](#array) (12)
+-   [Array & Hashing](#array) (13)
 -   [Backtracking](#backtraking) (11)
 -   [Binary Serch](#binary-search) (8)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -38,6 +38,7 @@
 -   [x] [Game of Life](https://leetcode.com/problems/game-of-life/): [Solution](/Array/289-GameofLife/)
 -   [x] [Jump Game](https://leetcode.com/problems/jump-game/): [Solution](/Array/55-JumpGame/)
 -   [x] [Jump Game II](https://leetcode.com/problems/jump-game-ii/): [Solution](/Array/45-JumpGameII/)
+-   [x] [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/): [Solution](/Array/2225-FindPlayersWithZeroorOneLosses/)
 
 ---
 
