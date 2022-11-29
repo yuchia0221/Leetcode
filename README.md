@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 152
+##### Problem Solved: 153
 
--   [Array & Hashing](#array) (14)
+-   [Array & Hashing](#array) (15)
 -   [Backtracking](#backtraking) (11)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -40,6 +40,7 @@
 -   [x] [Jump Game II](https://leetcode.com/problems/jump-game-ii/): [Solution](/Array/45-JumpGameII/)
 -   [x] [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/): [Solution](/Array/2225-FindPlayersWithZeroorOneLosses/)
 -   [x] [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/): [Solution](/Array/937-ReorderDatainLogFiles/)
+-   [x] [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/): [Solution](/Array/1465-MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts/)
 
 ---
 
