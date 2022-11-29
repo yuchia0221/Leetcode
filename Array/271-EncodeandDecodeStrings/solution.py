@@ -13,13 +13,12 @@ class Codec:
         """ Decodes a single string to a list of strings """
         index = 0
         decoded_string = []
-
         while index < len(s):
             j = index
             while s[j] != "#":
                 j += 1
-            length = int(s[j-1])
-            decoded_string.append(str[j+1:j+1+length])
-            i = j + 1 + length
+            length = int(s[index:j])
+            decoded_string.append(s[j+1:j+1+length])
+            index = j + 1 + length
 
         return decoded_string
