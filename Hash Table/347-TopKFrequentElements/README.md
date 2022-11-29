@@ -31,7 +31,7 @@ def topKFrequent(nums: List[int], k: int) -> List[int]:
 
     output_list = []
     for i in range(len(nums), -1, -1):
-        output_list.append(buckets[i])
+        output_list.extend(buckets[i])
         if len(output_list) == k:
             break
 
