@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 155
+##### Problem Solved: 156
 
--   [Array & Hashing](#array) (16)
+-   [Array](#array) (16)
 -   [Backtracking](#backtraking) (11)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -12,7 +12,7 @@
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (10)
--   [Hash Table](#hash-table) (17)
+-   [Hash Table](#hash-table) (18)
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
 -   [Prefix Sum](#prefix-sum) (7)
@@ -158,6 +158,7 @@
 -   [x] [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/): [Solution](/Hash%20Table/1152-AnalyzeUserWebsiteVisitPattern/)
 -   [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/): [Solution](/Hash%20Table/811-SubdomainVisitCount/)
 -   [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [Solution](/Binary%20Search/81-SearchinRotatedSortedArrayII/)
+-   [x] [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/): [Solution](/Hash%20Table/659-SplitArrayintoConsecutiveSubsequences/)
 
 ---
 
