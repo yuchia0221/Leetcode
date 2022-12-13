@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 160
+##### Problem Solved: 161
 
 -   [Array](#array) (16)
 -   [Backtracking](#backtraking) (11)
@@ -15,7 +15,7 @@
 -   [Hash Table](#hash-table) (19)
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
--   [Prefix Sum](#prefix-sum) (8)
+-   [Prefix Sum](#prefix-sum) (9)
 -   [Segment Tree](#segment-tree) (1)
 -   [Sliding Window](#sliding-window) (4)
 -   [Stack](#stack) (4)
@@ -202,6 +202,7 @@
 -   [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/): [Solution](/Prefix%20Sum/528-RandomPickwithWeight/)
 -   [x] [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/): [Solution](/Prefix%20Sum/974-SubarraySumsDivisiblebyK/)
 -   [x] [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/): [Solution](/Prefix%20Sum/2256-MinimumAverageDifference/)
+-   [x] [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/): [Solution](/Prefix%20Sum/523-ContinuousSubarraySum/)
 
 ---
 
