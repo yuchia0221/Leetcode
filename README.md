@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 158
+##### Problem Solved: 159
 
 -   [Array](#array) (16)
 -   [Backtracking](#backtraking) (11)
@@ -11,7 +11,7 @@
 -   [Binary Tree](#binary-tree) (17)
 -   [Breadth-first Search](#breadth-first-search) (1)
 -   [Depth-first Search](#depth-first-search) (10)
--   [Dynamic Programming](#dynamic-programming) (10)
+-   [Dynamic Programming](#dynamic-programming) (11)
 -   [Hash Table](#hash-table) (18)
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (16)
@@ -134,6 +134,7 @@
 -   [x] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/): [Solution](/Dynamic%20Programming/64-MinimumPathSum/)
 -   [x] [Maximal Square](https://leetcode.com/problems/maximal-square/): [Solution](/Dynamic%20Programming/221-MaximalSquare/)
 -   [x] [Decode Ways](https://leetcode.com/problems/decode-ways/): [Solution](/Dynamic%20Programming/91-DecodeWays/)
+-   [x] [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/): [Solution](/Dynamic%20Programming/823-BinaryTreesWithFactors/)
 
 ---
 
