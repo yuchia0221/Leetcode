@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 169
+##### Problem Solved: 170
 
 -   [Array](#array) (16)
 -   [Backtracking](#backtraking) (12)
@@ -14,7 +14,7 @@
 -   [Dynamic Programming](#dynamic-programming) (13)
 -   [Hash Table](#hash-table) (19)
 -   [Heap / Priority Queue](#heap) (2)
--   [Linked List](#linked-list) (16)
+-   [Linked List](#linked-list) (17)
 -   [Prefix Sum](#prefix-sum) (9)
 -   [Segment Tree](#segment-tree) (1)
 -   [Sliding Window](#sliding-window) (4)
@@ -194,6 +194,7 @@
 -   [x] [Sort List](https://leetcode.com/problems/sort-list/): [Solution](/Linked%20List/148-SortList/)
 -   [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/): [Solution](/Linked%20List/203-RemoveLinkedListElements/)
 -   [x] [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [Solution](/Linked%20List/445-AddTwoNumbersII/)
+-   [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/): [Solution](/Linked%20List/142-LinkedListCycleII/)
 
 ---
 
