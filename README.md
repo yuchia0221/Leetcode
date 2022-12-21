@@ -2,13 +2,13 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 167
+##### Problem Solved: 168
 
 -   [Array](#array) (16)
 -   [Backtracking](#backtraking) (11)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
--   [Binary Tree](#binary-tree) (17)
+-   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (2)
 -   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (13)
@@ -101,6 +101,7 @@
 -   [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/): [Solution](/Binary%20Tree/124-BinaryTreeMaximumPathSum/)
 -   [x] [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/): [Solution](/Binary%20Tree/331-VerifyPreorderSerializationofaBinaryTree/)
 -   [x] [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/): [Solution](/Binary%20Tree/257-BinaryTreePaths/)
+-   [x] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/): [Solution](/Binary%20Tree/114-FlattenBinaryTreetoLinkedList/)
 
 ---
 
