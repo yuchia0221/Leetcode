@@ -43,4 +43,4 @@ def shortestDistance(maze: List[List[int]], start: List[int], destination: List[
 
 Explanation: When we perform BFS, we just need to store the steps we take so far to reach this position. Also, we should only push item into queue if and only if we find a shorter path to this point.
 
-Time Complexity: ![O(om * max(n,m))](<https://latex.codecogs.com/svg.image?\inline&space;O(V+E)>), Space Complexity: ![O(om \cdot; max(n,m))](<https://latex.codecogs.com/svg.image?\inline&space;O(nm)>), where n and m is the number of row and column, respectively.
+Time Complexity: ![O(nm*max(n,m))](<https://latex.codecogs.com/svg.image?O(nm\cdot&space;max(n,m))>), Space Complexity: ![O(nm)](<https://latex.codecogs.com/svg.image?\inline&space;O(nm)>), where n and m is the number of row and column, respectively.
