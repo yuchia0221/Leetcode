@@ -2,14 +2,14 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 166
+##### Problem Solved: 167
 
 -   [Array](#array) (16)
 -   [Backtracking](#backtraking) (11)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (17)
--   [Breadth-first Search](#breadth-first-search) (1)
+-   [Breadth-first Search](#breadth-first-search) (2)
 -   [Depth-first Search](#depth-first-search) (10)
 -   [Dynamic Programming](#dynamic-programming) (13)
 -   [Hash Table](#hash-table) (19)
@@ -107,6 +107,7 @@
 ### Breadth-first Search
 
 -   [x] [The Maze II](https://leetcode.com/problems/the-maze-ii/): [Solution](/Breadth-first%20Search/505-TheMazeII/)
+-   [x] [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/): [Solution](/Breadth-first%20Search/886-PossibleBipartition/)
 
 ---
 
