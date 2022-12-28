@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 170
+##### Problem Solved: 171
 
 -   [Array](#array) (16)
 -   [Backtracking](#backtraking) (12)
@@ -11,7 +11,7 @@
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (2)
 -   [Depth-first Search](#depth-first-search) (10)
--   [Dynamic Programming](#dynamic-programming) (13)
+-   [Dynamic Programming](#dynamic-programming) (14)
 -   [Hash Table](#hash-table) (19)
 -   [Heap / Priority Queue](#heap) (2)
 -   [Linked List](#linked-list) (17)
@@ -140,6 +140,7 @@
 -   [x] [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/): [Solution](/Dynamic%20Programming/823-BinaryTreesWithFactors/)
 -   [x] [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/): [Solution](/Dynamic%20Programming/907-SumofSubarrayMinimums/)
 -   [x] [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/): [Solution](/Dynamic%20Programming/1155-NumberofDiceRollsWithTargetSum/)
+-   [x] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/): [Solution](/Dynamic%20Programming/309-BestTimetoBuyandSellStockwithCooldown/)
 
 ---
 
