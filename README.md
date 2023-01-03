@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 177
+##### Problem Solved: 178
 
--   [Array](#array) (18)
+-   [Array](#array) (19)
 -   [Backtracking](#backtraking) (12)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -44,6 +44,7 @@
 -   [x] [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/):[Solution](/Array/1985-FindtheKthLargestIntegerintheArray/)
 -   [x] [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/): [Solution](/Array/2279-MaximumBagsWithFullCapacityofRocks/)
 -   [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/): [Solution](/Array/122-BestTimetoBuyandSellStockII/)
+-   [x] [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/): [Solution](/Array/944-DeleteColumnstoMakeSorted/)
 
 ---
 
