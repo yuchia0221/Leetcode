@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 180
+##### Problem Solved: 181
 
 -   [Array](#array) (19)
 -   [Backtracking](#backtraking) (12)
@@ -12,7 +12,7 @@
 -   [Breadth-first Search](#breadth-first-search) (2)
 -   [Depth-first Search](#depth-first-search) (12)
 -   [Dynamic Programming](#dynamic-programming) (14)
--   [Hash Table](#hash-table) (20)
+-   [Hash Table](#hash-table) (21)
 -   [Heap / Priority Queue](#heap) (4)
 -   [Linked List](#linked-list) (17)
 -   [Prefix Sum](#prefix-sum) (9)
@@ -173,6 +173,7 @@
 -   [x] [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/): [Solution](/Hash%20Table/659-SplitArrayintoConsecutiveSubsequences/)
 -   [x] [Word Subsets](https://leetcode.com/problems/word-subsets/): [Solution](/Hash%20Table/916-WordSubsets/)
 -   [x] [Word Pattern](https://leetcode.com/problems/word-pattern/): [Solution](/Hash%20Table/290-WordPattern/)
+-   [x] [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/): [Solution](/Hash%20Table/2244-MinimumRoundstoCompleteAllTasks/)
 
 ---
 
