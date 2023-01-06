@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 182
+##### Problem Solved: 183
 
--   [Array](#array) (20)
+-   [Array](#array) (21)
 -   [Backtracking](#backtraking) (12)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -46,6 +46,7 @@
 -   [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/): [Solution](/Array/122-BestTimetoBuyandSellStockII/)
 -   [x] [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/): [Solution](/Array/944-DeleteColumnstoMakeSorted/)
 -   [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/): [Solution](/Array/452-MinimumNumberofArrowstoBurstBalloons/)
+-   [x] [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/): [Solution](/Array/1833-MaximumIceCreamBars/)
 
 ---
 
