@@ -2,10 +2,10 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 185
+##### Problem Solved: 186
 
 -   [Array](#array) (22)
--   [Backtracking](#backtraking) (12)
+-   [Backtracking](#backtraking) (13)
 -   [Binary Serch](#binary-search) (9)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
@@ -65,6 +65,7 @@
 -   [x] [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/): [Solution](/Backtracking/1444-NumberofWaysofCuttingaPizza/)
 -   [x] [Target Sum](https://leetcode.com/problems/target-sum/): [Solution](/Backtracking/494-TargetSum/)
 -   [x] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/): [Solution](/Backtracking/131-PalindromePartitioning/)
+-   [x] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/): [Solution](/Backtracking/93-RestoreIPAddresses/)
 
 ---
 
