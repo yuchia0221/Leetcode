@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 189
+##### Problem Solved: 190
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -10,7 +10,7 @@
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (5)
--   [Depth-first Search](#depth-first-search) (13)
+-   [Depth-first Search](#depth-first-search) (14)
 -   [Dynamic Programming](#dynamic-programming) (14)
 -   [Hash Table](#hash-table) (21)
 -   [Heap / Priority Queue](#heap) (4)
@@ -135,6 +135,7 @@
 -   [x] [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/): [Solution](/Depth-first%20Search/797-AllPathsFromSourcetoTarget/)
 -   [x] [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): [Solution](/Depth-first%20Search/980-UniquePathsIII/)
 -   [x] [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/): [Solution](/Depth-first%20Search/2246-LongestPathWithDifferentAdjacentCharacters/)
+-   [x] [Concatenated Words](https://leetcode.com/problems/concatenated-words/): [Solution](/Depth-first%20Search/472-ConcatenatedWords/)
 
 ---
 
