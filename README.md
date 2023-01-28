@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 190
+##### Problem Solved: 191
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -11,6 +11,7 @@
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (5)
 -   [Depth-first Search](#depth-first-search) (14)
+-   [Design](#design) (1)
 -   [Dynamic Programming](#dynamic-programming) (14)
 -   [Hash Table](#hash-table) (21)
 -   [Heap / Priority Queue](#heap) (4)
@@ -136,6 +137,12 @@
 -   [x] [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): [Solution](/Depth-first%20Search/980-UniquePathsIII/)
 -   [x] [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/): [Solution](/Depth-first%20Search/2246-LongestPathWithDifferentAdjacentCharacters/)
 -   [x] [Concatenated Words](https://leetcode.com/problems/concatenated-words/): [Solution](/Depth-first%20Search/472-ConcatenatedWords/)
+
+---
+
+### Design
+
+-   [x] [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/): [Solution](/Design/352-DataStreamasDisjointIntervals/)
 
 ---
 
