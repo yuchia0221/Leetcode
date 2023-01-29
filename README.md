@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 192
+##### Problem Solved: 193
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -12,7 +12,7 @@
 -   [Breadth-first Search](#breadth-first-search) (5)
 -   [Depth-first Search](#depth-first-search) (14)
 -   [Design](#design) (1)
--   [Dynamic Programming](#dynamic-programming) (15)
+-   [Dynamic Programming](#dynamic-programming) (16)
 -   [Hash Table](#hash-table) (21)
 -   [Heap / Priority Queue](#heap) (4)
 -   [Linked List](#linked-list) (17)
@@ -163,6 +163,7 @@
 -   [x] [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/): [Solution](/Dynamic%20Programming/1155-NumberofDiceRollsWithTargetSum/)
 -   [x] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/): [Solution](/Dynamic%20Programming/309-BestTimetoBuyandSellStockwithCooldown/)
 -   [x] [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/): [Solution](/Dynamic%20Programming/2291-MaximumProfitFromTradingStocks/)
+-   [x] [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/): [Solution](/Dynamic%20Programming/123-BestTimetoBuyandSellStockIII/)
 
 ---
 
