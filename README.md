@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 199
+##### Problem Solved: 200
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -23,7 +23,7 @@
 -   [String](#string) (14)
 -   [Trie](#trie) (2)
 -   [Two Pointers](#two-pointers) (14)
--   [Union Find](#union-find) (8)
+-   [Union Find](#union-find) (9)
 
 ### Array
 
@@ -323,6 +323,6 @@
 -   [x] [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/): [Solution](/Union%20Find/959-RegionsCutBySlashes/)
 -   [x] [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/): [Solution](/Union%20Find/1101-TheEarliestMomentWhenEveryoneBecomeFriends/)
 -   [x] [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/): [Solution](/Union%20Find/1061-LexicographicallySmallestEquivalentString/)
-
+-   [x] [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/): [Solution](/Union%20Find/990-SatisfiabilityofEqualityEquations/)
 
 ---
