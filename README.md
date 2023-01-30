@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 197
+##### Problem Solved: 198
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -23,7 +23,7 @@
 -   [String](#string) (14)
 -   [Trie](#trie) (2)
 -   [Two Pointers](#two-pointers) (14)
--   [Union Find](#union-find) (7)
+-   [Union Find](#union-find) (8)
 
 ### Array
 
@@ -321,6 +321,7 @@
 -   [x] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/): [Solution](/Union%20Find/323-NumberofConnectedComponentsinanUndirectedGraph/)
 -   [x] [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/): [Solution](/Union%20Find/959-RegionsCutBySlashes/)
 -   [x] [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/): [Solution](/Union%20Find/1101-TheEarliestMomentWhenEveryoneBecomeFriends/)
+-   [x] [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/): [Solution](/Union%20Find/1061-LexicographicallySmallestEquivalentString/)
 
 
 ---
