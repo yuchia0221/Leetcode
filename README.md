@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 195
+##### Problem Solved: 196
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -23,7 +23,7 @@
 -   [String](#string) (14)
 -   [Trie](#trie) (2)
 -   [Two Pointers](#two-pointers) (14)
--   [Union Find](#union-find) (5)
+-   [Union Find](#union-find) (6)
 
 ### Array
 
@@ -319,5 +319,7 @@
 -   [x] [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/): [Solution](/Union%20Find/952-LargestComponentSizebyCommonFactor/)
 -   [x] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/): [Solution](/Union%20Find/1971-FindifPathExistsinGraph/)
 -   [x] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/): [Solution](/Union%20Find/323-NumberofConnectedComponentsinanUndirectedGraph/)
+-   [x] [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/): [Solution](/Union%20Find/959-RegionsCutBySlashes/)
+
 
 ---
