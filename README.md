@@ -2,11 +2,11 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 201
+##### Problem Solved: 202
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
--   [Binary Serch](#binary-search) (9)
+-   [Binary Serch](#binary-search) (10)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (5)
@@ -80,6 +80,7 @@
 -   [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/): [Solution](/Binary%20Search/162-FindPeakElement/)
 -   [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/): [Solution](/Binary%20Search/875-KokoEatingBananas/)
 -   [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/): [Solution](/Binary%20Search/1283-FindtheSmallestDivisorGivenaThreshold/)
+-   [x] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/): [Solution](/Binary%20Search/658-FindKClosestElements/)
 
 ---
 
