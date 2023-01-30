@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 198
+##### Problem Solved: 199
 
 -   [Array](#array) (22)
 -   [Backtracking](#backtraking) (13)
@@ -10,7 +10,7 @@
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (5)
--   [Depth-first Search](#depth-first-search) (14)
+-   [Depth-first Search](#depth-first-search) (15)
 -   [Design](#design) (1)
 -   [Dynamic Programming](#dynamic-programming) (18)
 -   [Hash Table](#hash-table) (21)
@@ -137,6 +137,7 @@
 -   [x] [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): [Solution](/Depth-first%20Search/980-UniquePathsIII/)
 -   [x] [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/): [Solution](/Depth-first%20Search/2246-LongestPathWithDifferentAdjacentCharacters/)
 -   [x] [Concatenated Words](https://leetcode.com/problems/concatenated-words/): [Solution](/Depth-first%20Search/472-ConcatenatedWords/)
+-   [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/): [Solution](/Depth-first%20Search/695-MaxAreaofIsland/)
 
 ---
 
