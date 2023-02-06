@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 203
+##### Problem Solved: 204
 
--   [Array](#array) (22)
+-   [Array](#array) (23)
 -   [Backtracking](#backtraking) (13)
 -   [Binary Serch](#binary-search) (10)
 -   [Binary Search Tree](#binary-search-tree) (3)
@@ -49,6 +49,7 @@
 -   [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/): [Solution](/Array/452-MinimumNumberofArrowstoBurstBalloons/)
 -   [x] [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/): [Solution](/Array/1833-MaximumIceCreamBars/)
 -   [x] [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/): [Solution](/Array/918-MaximumSumCircularSubarray/)
+-   [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/): [Solution](/Array/1470-ShuffletheArray/)
 
 ---
 
