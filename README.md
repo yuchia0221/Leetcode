@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 204
+##### Problem Solved: 205
 
 -   [Array](#array) (23)
 -   [Backtracking](#backtraking) (13)
@@ -11,7 +11,7 @@
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (5)
 -   [Depth-first Search](#depth-first-search) (15)
--   [Design](#design) (1)
+-   [Design](#design) (2)
 -   [Dynamic Programming](#dynamic-programming) (18)
 -   [Hash Table](#hash-table) (21)
 -   [Heap / Priority Queue](#heap) (4)
@@ -146,6 +146,7 @@
 ### Design
 
 -   [x] [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/): [Solution](/Design/352-DataStreamasDisjointIntervals/)
+-   [x] [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/): [Solution](/Design/2034-StockPriceFluctuation/)
 
 ---
 
