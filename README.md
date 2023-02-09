@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 205
+##### Problem Solved: 206
 
 -   [Array](#array) (23)
 -   [Backtracking](#backtraking) (13)
@@ -18,7 +18,7 @@
 -   [Linked List](#linked-list) (17)
 -   [Prefix Sum](#prefix-sum) (9)
 -   [Segment Tree](#segment-tree) (1)
--   [Sliding Window](#sliding-window) (4)
+-   [Sliding Window](#sliding-window) (5)
 -   [Stack](#stack) (6)
 -   [String](#string) (14)
 -   [Trie](#trie) (2)
@@ -258,6 +258,7 @@
 -   [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [Solution](/Sliding%20Window/209-MinimumSizeSubarraySum/)
 -   [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [Solution](/Sliding%20Window/239-SlidingWindowMaximum/)
 -   [x] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](/Sliding%20Window/713-SubarrayProductLessThanK/)
+-   [x] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/): [Solution](/Sliding%20Window/904-FruitIntoBaskets/)
 
 ---
 
