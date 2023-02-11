@@ -2,14 +2,14 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 209
+##### Problem Solved: 212
 
 -   [Array](#array) (23)
 -   [Backtracking](#backtraking) (13)
 -   [Binary Serch](#binary-search) (10)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
--   [Breadth-first Search](#breadth-first-search) (6)
+-   [Breadth-first Search](#breadth-first-search) (7)
 -   [Depth-first Search](#depth-first-search) (15)
 -   [Design](#design) (2)
 -   [Dynamic Programming](#dynamic-programming) (18)
@@ -124,6 +124,7 @@
 -   [x] [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/): [Solution](/Breadth-first%20Search/909-SnakesandLadders/)
 -   [x] [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/): [Solution](/Breadth-first%20Search/2359-FindClosestNodetoGivenTwoNodes/)
 -   [x] [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/): [Solution](/Breadth-first%20Search/1162-AsFarfromLandasPossible/)
+-   [x] [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/): [Solution](/Breadth-first%20Search/1129-ShortestPathwithAlternatingColors/)
 
 ---
 
