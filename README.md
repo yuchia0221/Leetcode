@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 212
+##### Problem Solved: 213
 
 -   [Array](#array) (23)
 -   [Backtracking](#backtraking) (13)
@@ -10,7 +10,7 @@
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
--   [Depth-first Search](#depth-first-search) (15)
+-   [Depth-first Search](#depth-first-search) (16)
 -   [Design](#design) (2)
 -   [Dynamic Programming](#dynamic-programming) (18)
 -   [Hash Table](#hash-table) (23)
@@ -142,6 +142,7 @@
 -   [x] [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/): [Solution](/Depth-first%20Search/2246-LongestPathWithDifferentAdjacentCharacters/)
 -   [x] [Concatenated Words](https://leetcode.com/problems/concatenated-words/): [Solution](/Depth-first%20Search/472-ConcatenatedWords/)
 -   [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/): [Solution](/Depth-first%20Search/695-MaxAreaofIsland/)
+-   [x] [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/): [Solution](/Depth-first%20Search/2477-MinimumFuelCosttoReporttotheCapital/)
 
 ---
 
