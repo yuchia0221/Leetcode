@@ -29,7 +29,7 @@
 
 -   [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/): [Solution](/Array/271-EncodeandDecodeStrings/)
 -   [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/): [Solution](/Array/215-KthLargestElementinanArray/)
--   [x] [Interval List Intersections](/https://leetcode.com/problems/interval-list-intersections/): [Solution](/Array/986-IntervalListIntersections/)
+-   [x] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/): [Solution](/Array/986-IntervalListIntersections/)
 -   [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/): [Solution](/Array/56-MergeIntervals/)
 -   [x] [Insert Interval](https://leetcode.com/problems/insert-interval/): [Solution](/Array/57-InsertInterval/)
 -   [x] [Meeting rooms](https://leetcode.com/problems/meeting-rooms/): [Solution](/Array/252-MeetingRooms/)
