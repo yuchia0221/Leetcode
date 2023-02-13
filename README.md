@@ -4,13 +4,13 @@
 
 ##### Problem Solved: 213
 
--   [Array](#array) (23)
--   [Backtracking](#backtraking) (13)
+-   [Array](#array) (24)
+-   [Backtracking](#backtracking) (13)
 -   [Binary Serch](#binary-search) (10)
 -   [Binary Search Tree](#binary-search-tree) (3)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
--   [Depth-first Search](#depth-first-search) (16)
+-   [Depth-first Search](#depth-first-search) (13)
 -   [Design](#design) (2)
 -   [Dynamic Programming](#dynamic-programming) (18)
 -   [Hash Table](#hash-table) (23)
@@ -50,10 +50,11 @@
 -   [x] [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/): [Solution](/Array/1833-MaximumIceCreamBars/)
 -   [x] [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/): [Solution](/Array/918-MaximumSumCircularSubarray/)
 -   [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/): [Solution](/Array/1470-ShuffletheArray/)
+-   [x] [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/): [Solution](/Array/280-WiggleSort/)
 
 ---
 
-### Backtraking
+### Backtracking
 
 -   [x] [Combinations](https://leetcode.com/problems/combinations/): [Solution](/Backtracking/77-Combinations/)
 -   [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/): [Solution](/Backtracking/40-CombinationSumII/)
@@ -82,6 +83,7 @@
 -   [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/): [Solution](/Binary%20Search/875-KokoEatingBananas/)
 -   [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/): [Solution](/Binary%20Search/1283-FindtheSmallestDivisorGivenaThreshold/)
 -   [x] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/): [Solution](/Binary%20Search/658-FindKClosestElements/)
+-   [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [Solution](/Binary%20Search/81-SearchinRotatedSortedArrayII/)
 
 ---
 
@@ -196,7 +198,6 @@
 -   [x] [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/): [Solution](/Hash%20Table/1010-PairsofSongsWithTotalDurationsDivisibleby60/)
 -   [x] [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/): [Solution](/Hash%20Table/1152-AnalyzeUserWebsiteVisitPattern/)
 -   [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/): [Solution](/Hash%20Table/811-SubdomainVisitCount/)
--   [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [Solution](/Binary%20Search/81-SearchinRotatedSortedArrayII/)
 -   [x] [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/): [Solution](/Hash%20Table/659-SplitArrayintoConsecutiveSubsequences/)
 -   [x] [Word Subsets](https://leetcode.com/problems/word-subsets/): [Solution](/Hash%20Table/916-WordSubsets/)
 -   [x] [Word Pattern](https://leetcode.com/problems/word-pattern/): [Solution](/Hash%20Table/290-WordPattern/)
@@ -325,7 +326,7 @@
 
 ### Union Find
 
--   [x] [Number of Islands II](/Union%20Find/305-NumberofIslandsII/): [Solution](/Union%20Find/305-NumberofIslandsII/)
+-   [x] [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/): [Solution](/Union%20Find/305-NumberofIslandsII/)
 -   [x] [Evaluate Division](https://leetcode.com/problems/evaluate-division/): [Solution](/Union%20Find/399-EvaluateDivision/)
 -   [x] [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/): [Solution](/Union%20Find/952-LargestComponentSizebyCommonFactor/)
 -   [x] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/): [Solution](/Union%20Find/1971-FindifPathExistsinGraph/)
