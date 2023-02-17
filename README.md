@@ -2,12 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 214
+##### Problem Solved: 215
 
 -   [Array](#array) (25)
 -   [Backtracking](#backtracking) (13)
 -   [Binary Serch](#binary-search) (10)
--   [Binary Search Tree](#binary-search-tree) (3)
+-   [Binary Search Tree](#binary-search-tree) (4)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
 -   [Depth-first Search](#depth-first-search) (13)
@@ -93,6 +93,7 @@
 -   [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/): [Solution](/Binary%20Search%20Tree/173-BinarySearchTreeIterator/)
 -   [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/): [Solution](/Binary%20Search%20Tree/230-KthSmallestElementinaBST/)
 -   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Search%20Tree/285-InorderSuccessorinBST/)
+-   [x] [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/): [Solution](/Binary%20Search%20Tree/783-MinimumDistanceBetweenBSTNodes/)
 
 ---
 
