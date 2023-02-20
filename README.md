@@ -2,11 +2,11 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 215
+##### Problem Solved: 216
 
 -   [Array](#array) (25)
 -   [Backtracking](#backtracking) (13)
--   [Binary Serch](#binary-search) (10)
+-   [Binary Serch](#binary-search) (11)
 -   [Binary Search Tree](#binary-search-tree) (4)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
@@ -85,6 +85,7 @@
 -   [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/): [Solution](/Binary%20Search/1283-FindtheSmallestDivisorGivenaThreshold/)
 -   [x] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/): [Solution](/Binary%20Search/658-FindKClosestElements/)
 -   [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [Solution](/Binary%20Search/81-SearchinRotatedSortedArrayII/)
+-   [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/): [Solution](/Binary%20Search/35-SearchInsertPosition/)
 
 ---
 
