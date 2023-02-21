@@ -2,11 +2,11 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 216
+##### Problem Solved: 217
 
 -   [Array](#array) (25)
 -   [Backtracking](#backtracking) (13)
--   [Binary Serch](#binary-search) (11)
+-   [Binary Serch](#binary-search) (12)
 -   [Binary Search Tree](#binary-search-tree) (4)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
@@ -86,6 +86,7 @@
 -   [x] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/): [Solution](/Binary%20Search/658-FindKClosestElements/)
 -   [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [Solution](/Binary%20Search/81-SearchinRotatedSortedArrayII/)
 -   [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/): [Solution](/Binary%20Search/35-SearchInsertPosition/)
+-   [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/): [Solution](/Binary%20Search/540-SingleElementinaSortedArray/)
 
 ---
 
