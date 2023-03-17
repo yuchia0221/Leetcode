@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 222
+##### Problem Solved: 223
 
 -   [Array](#array) (25)
 -   [Backtracking](#backtracking) (13)
@@ -10,7 +10,7 @@
 -   [Binary Search Tree](#binary-search-tree) (4)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
--   [Depth-first Search](#depth-first-search) (14)
+-   [Depth-first Search](#depth-first-search) (15)
 -   [Design](#design) (2)
 -   [Dynamic Programming](#dynamic-programming) (19)
 -   [Hash Table](#hash-table) (23)
@@ -151,6 +151,7 @@
 -   [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/): [Solution](/Depth-first%20Search/695-MaxAreaofIsland/)
 -   [x] [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/): [Solution](/Depth-first%20Search/2477-MinimumFuelCosttoReporttotheCapital/)
 -   [x] [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/): [Solution](/Depth-first%20Search/427-ConstructQuadTree/)
+-   [x] [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/): [Solution](/Depth-first%20Search/1485-CloneBinaryTreeWithRandomPointer/)
 
 ---
 
