@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 224
+##### Problem Solved: 225
 
 -   [Array](#array) (25)
 -   [Backtracking](#backtracking) (13)
@@ -23,7 +23,7 @@
 -   [String](#string) (14)
 -   [Trie](#trie) (2)
 -   [Two Pointers](#two-pointers) (14)
--   [Union Find](#union-find) (10)
+-   [Union Find](#union-find) (11)
 
 ### Array
 
@@ -347,5 +347,6 @@
 -   [x] [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/): [Solution](/Union%20Find/1061-LexicographicallySmallestEquivalentString/)
 -   [x] [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/): [Solution](/Union%20Find/990-SatisfiabilityofEqualityEquations/)
 -   [x] [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/): [Solution](/Union%20Find/947-MostStonesRemovedwithSameRoworColumn/)
+-   [x] [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/): [Solution](/Union%20Find/1319-NumberofOperationstoMakeNetworkConnected/)
 
 ---
