@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 225
+##### Problem Solved: 226
 
 -   [Array](#array) (25)
 -   [Backtracking](#backtracking) (13)
@@ -10,7 +10,7 @@
 -   [Binary Search Tree](#binary-search-tree) (4)
 -   [Binary Tree](#binary-tree) (18)
 -   [Breadth-first Search](#breadth-first-search) (7)
--   [Depth-first Search](#depth-first-search) (15)
+-   [Depth-first Search](#depth-first-search) (16)
 -   [Design](#design) (3)
 -   [Dynamic Programming](#dynamic-programming) (19)
 -   [Hash Table](#hash-table) (23)
@@ -152,6 +152,7 @@
 -   [x] [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/): [Solution](/Depth-first%20Search/2477-MinimumFuelCosttoReporttotheCapital/)
 -   [x] [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/): [Solution](/Depth-first%20Search/427-ConstructQuadTree/)
 -   [x] [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/): [Solution](/Depth-first%20Search/1485-CloneBinaryTreeWithRandomPointer/)
+-   [x] [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/): [Solution](/Depth-first%20Search/1466-ReorderRoutestoMakeAllPathsLeadtotheCityZero/)
 
 ---
 
