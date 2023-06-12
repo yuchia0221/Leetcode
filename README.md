@@ -2,9 +2,9 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 228
+##### Problem Solved: 229
 
--   [Array](#array) (25)
+-   [Array](#array) (26)
 -   [Backtracking](#backtracking) (13)
 -   [Binary Serch](#binary-search) (13)
 -   [Binary Search Tree](#binary-search-tree) (4)
@@ -52,6 +52,7 @@
 -   [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/): [Solution](/Array/1470-ShuffletheArray/)
 -   [x] [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/): [Solution](/Array/280-WiggleSort/)
 -   [x] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/): [Solution](/Array/989-AddtoArray-FormofInteger/)
+-   [x] [Summary Ranges](https://leetcode.com/problems/summary-ranges/): [Solution](/Array/228-SummaryRanges/)
 
 ---
 
