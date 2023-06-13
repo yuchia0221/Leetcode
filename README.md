@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 229
+##### Problem Solved: 230
 
 -   [Array](#array) (26)
 -   [Backtracking](#backtracking) (13)
@@ -13,7 +13,7 @@
 -   [Depth-first Search](#depth-first-search) (16)
 -   [Design](#design) (4)
 -   [Dynamic Programming](#dynamic-programming) (19)
--   [Hash Table](#hash-table) (23)
+-   [Hash Table](#hash-table) (24)
 -   [Heap / Priority Queue](#heap) (5)
 -   [Linked List](#linked-list) (17)
 -   [Prefix Sum](#prefix-sum) (9)
@@ -216,6 +216,7 @@
 -   [x] [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/): [Solution](/Hash%20Table/2244-MinimumRoundstoCompleteAllTasks/)
 -   [x] [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/): [Solution](/Hash%20Table/734-SentenceSimilarity/)
 -   [x] [Naming a Company](https://leetcode.com/problems/naming-a-company/): [Solution](/Hash%20Table/2306-NamingaCompany/)
+-   [x] [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/): [Solution](/Hash%20Table/2352-EqualRowandColumnPairs/)
 
 ---
 
