@@ -2,12 +2,12 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 232
+##### Problem Solved: 233
 
 -   [Array](#array) (26)
 -   [Backtracking](#backtracking) (13)
 -   [Binary Serch](#binary-search) (13)
--   [Binary Search Tree](#binary-search-tree) (5)
+-   [Binary Search Tree](#binary-search-tree) (6)
 -   [Binary Tree](#binary-tree) (19)
 -   [Breadth-first Search](#breadth-first-search) (7)
 -   [Depth-first Search](#depth-first-search) (16)
@@ -99,6 +99,7 @@
 -   [x] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/): [Solution](/Binary%20Search%20Tree/285-InorderSuccessorinBST/)
 -   [x] [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/): [Solution](/Binary%20Search%20Tree/783-MinimumDistanceBetweenBSTNodes/)
 -   [x] [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/): [Solution](/Binary%20Search%20Tree/530-MinimumAbsoluteDifferenceinBST/)
+-   [x] [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/): [Solution](/Binary%20Search%20Tree/1569-NumberofWaystoReorderArraytoGetSameBST/)
 
 ---
 
