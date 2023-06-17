@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for leetcode questions in Python.
 
-##### Problem Solved: 233
+##### Problem Solved: 234
 
 -   [Array](#array) (26)
 -   [Backtracking](#backtracking) (13)
@@ -12,7 +12,7 @@
 -   [Breadth-first Search](#breadth-first-search) (7)
 -   [Depth-first Search](#depth-first-search) (16)
 -   [Design](#design) (4)
--   [Dynamic Programming](#dynamic-programming) (19)
+-   [Dynamic Programming](#dynamic-programming) (20)
 -   [Hash Table](#hash-table) (24)
 -   [Heap / Priority Queue](#heap) (5)
 -   [Linked List](#linked-list) (17)
@@ -190,6 +190,7 @@
 -   [x] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/): [Solution](/Dynamic%20Programming/188-BestTimetoBuyandSellStockIV/)
 -   [x] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/): [Solution](/Dynamic%20Programming/1137-N-thTribonacciNumber/)
 -   [x] [Edit Distance](https://leetcode.com/problems/edit-distance/): [Solution](/Dynamic%20Programming/72-EditDistance/)
+-   [x] [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/): [Solution](/Dynamic%20Programming/1187-MakeArrayStrictlyIncreasing/)
 
 ---
 
